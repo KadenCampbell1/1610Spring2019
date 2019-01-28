@@ -1,1 +1,3 @@
 Roy is 39 degrees mostly cloudy
+
+unity size pixels: 2048 x 2048 pixels  72dpi
