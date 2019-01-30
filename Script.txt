@@ -1,0 +1,15 @@
+using UnityEngine;
+using UnityEngine.Events;
+
+
+public class SpaceShipEvent : Monobehaviour
+{
+	public UnityEvent Event;
+	
+	void onCollisionEnter2d()
+	{
+		Event.Invoke();
+	}
+
+
+}
