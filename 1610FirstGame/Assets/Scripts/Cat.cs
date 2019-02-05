@@ -2,19 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fish : Animal
+public class Cat : Animal
 {
-	public Color FinColor;
-	public int test;
-	
+	public int CatSpeed;
+	public bool CatSit = false;
+	public SpriteRenderer CatSprite;
 
 	// Use this for initialization
-	void Start () {
+	void Start () 
+	{
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
 		
 	}
 }
