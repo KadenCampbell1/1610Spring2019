@@ -2,18 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fish : Animal
+public class Characters : MonoBehaviour
 {
-	public Color finColor;
-	
+	public int health;
+	public int speed;
+	public int power;
+	public string characterName;
 
 	// Use this for initialization
-	void Start () {
+	void Start () 
+	{
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
 		
 	}
 }

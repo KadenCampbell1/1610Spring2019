@@ -2,18 +2,20 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fish : Animal
+public class Enemy : Characters
 {
-	public Color finColor;
-	
+	public int enemyType;
+	public Sprite[] enemySprite;
 
 	// Use this for initialization
-	void Start () {
+	void Start () 
+	{
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
 		
 	}
 }

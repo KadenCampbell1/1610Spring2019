@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Squid : Animal
 {
-	public int SquidSize;
+	public int squidSize;
 	
 		
 

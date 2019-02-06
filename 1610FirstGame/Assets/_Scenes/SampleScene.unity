@@ -242,9 +242,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee06119b5c16eed41b379d9febb2c9f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Name: Snail
-  SkinColor: {r: 0, g: 0, b: 0, a: 0}
-  ShellColor: {r: 0, g: 0, b: 0, a: 0}
+  characterName: Snail
+  skinColor: {r: 0, g: 0, b: 0, a: 0}
+  shellColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &60321026
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15803,9 +15803,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef5c9d7a8bdd9404e8aa0e477ad2113f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Name: Squid
-  SkinColor: {r: 0, g: 0, b: 0, a: 0}
-  SquidSize: 1
+  characterName: Squid
+  skinColor: {r: 0, g: 0, b: 0, a: 0}
+  squidSize: 0
 --- !u!212 &899694502
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20880,11 +20880,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56e82a67eec7b394ea5ca0f33c19e623, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Name: Cat
-  SkinColor: {r: 0, g: 0, b: 0, a: 0}
-  CatSpeed: 10
-  CatSit: 0
-  CatSprite: {fileID: 0}
+  characterName: Cat
+  skinColor: {r: 0, g: 0, b: 0, a: 0}
+  catSpeed: 0
+  catSit: 0
+  catSprite:
+  - {fileID: 21300030, guid: 965886c6648ba0846b722538c133d9dd, type: 3}
+  - {fileID: 21300022, guid: 965886c6648ba0846b722538c133d9dd, type: 3}
 --- !u!4 &1099536189
 Transform:
   m_ObjectHideFlags: 0
@@ -20926,10 +20928,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c5c23bdb29572446a8da22d4144b9c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Name: 
-  SkinColor: {r: 0.6792453, g: 0.05446779, b: 0.05446779, a: 0}
-  FinColor: {r: 0.5448191, g: 0.5566038, b: 0.07088822, a: 0}
-  test: 0
+  characterName: Fish
+  skinColor: {r: 0, g: 0, b: 0, a: 0}
+  finColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1192095310
 SpriteRenderer:
   m_ObjectHideFlags: 0

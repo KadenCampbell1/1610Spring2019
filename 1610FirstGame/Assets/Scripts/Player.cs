@@ -2,18 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fish : Animal
+public class Player : Characters
 {
-	public Color finColor;
-	
+	public int lifeCount;
+	public int powerUpType;
+	public bool isBlocked;
 
 	// Use this for initialization
-	void Start () {
+	void Start () 
+	{
 		
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
 		
 	}
 }

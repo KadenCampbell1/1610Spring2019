@@ -5,8 +5,8 @@ using UnityEngine;
 public class Animal : MonoBehaviour
 {
 
-	public string Name;
-	public Color SkinColor;
+	public string characterName;
+	public Color skinColor;
 
 	// Use this for initialization
 	void Start () 

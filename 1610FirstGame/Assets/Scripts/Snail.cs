@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Snail : Animal
 {
-	public Color ShellColor;
+	public Color shellColor;
 	
 
 	// Use this for initialization

@@ -9,8 +9,12 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Animal.cs" t="Include" />
+          <e p="Boss.cs" t="Include" />
           <e p="Cat.cs" t="Include" />
+          <e p="Characters.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
           <e p="Snail.cs" t="Include" />
           <e p="SpaceShipEvent.cs" t="Include" />
           <e p="Squid.cs" t="Include" />

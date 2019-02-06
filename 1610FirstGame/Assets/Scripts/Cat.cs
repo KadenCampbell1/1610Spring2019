@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Cat : Animal
 {
-	public int CatSpeed;
-	public bool CatSit = false;
-	public SpriteRenderer CatSprite;
+	public int catSpeed;
+	public bool catSit = false;
+	public Sprite[] catSprite;
 
 	// Use this for initialization
 	void Start () 
