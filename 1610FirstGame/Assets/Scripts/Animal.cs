@@ -6,6 +6,10 @@ public class Animal : MonoBehaviour
 {
 
 	public string characterName;
+	public int health;
+	public float speed;
+	public bool canMove;
+	
 	public Color skinColor;
 
 	// Use this for initialization

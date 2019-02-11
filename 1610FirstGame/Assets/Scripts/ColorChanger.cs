@@ -16,6 +16,6 @@ public class ColorChanger : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		spriteColor[colorNumber +=1];
+		//spriteColor[colorNumber +=1];
 	}
 }
