@@ -3,23 +3,23 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class Mammal : Animal
+public class ChangeColorEvent : MonoBehaviour
 {
-	public int furCount = 10000;
-	public float eatingSpeed = 0.4f;
-	public bool canEat = true;
-	public UnityEvent myEvent;
+	public UnityEvent colorEvent;
 
+	public void ChangeColor()
+	{
+		GetComponent<SpriteRenderer>().color = Color.black;
+	}
 
 	// Use this for initialization
 	void Start () 
 	{
-		myEvent.Invoke();
+		colorEvent.Invoke();
 	}
 	
 	// Update is called once per frame
-	void Update () 
-	{
+	void Update () {
 		
 	}
 }
