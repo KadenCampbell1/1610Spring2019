@@ -6,8 +6,8 @@ public class Animal : MonoBehaviour
 {
 
 	public string characterName;
-	public int health;
-	public float speed;
+	public FloatData health;
+	public FloatData speed;
 	public bool canMove;
 	
 	public Color skinColor;
