@@ -27,6 +27,7 @@
           <e p="Snail.cs" t="Include" />
           <e p="SpaceShipEvent.cs" t="Include" />
           <e p="Squid.cs" t="Include" />
+          <e p="WindowLights.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
