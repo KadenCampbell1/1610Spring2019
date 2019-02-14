@@ -11,6 +11,7 @@
           <e p="Android.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="Bear.cs" t="Include" />
+          <e p="BoolVariables.cs" t="Include" />
           <e p="Boss.cs" t="Include" />
           <e p="Cat.cs" t="Include" />
           <e p="CelestialBody.cs" t="Include" />
