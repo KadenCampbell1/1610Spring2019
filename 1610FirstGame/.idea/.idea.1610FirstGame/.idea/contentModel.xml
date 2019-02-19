@@ -10,6 +10,7 @@
         <e p="Scripts" t="Include">
           <e p="Android.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
+          <e p="Armor.cs" t="Include" />
           <e p="AttackUp.cs" t="Include" />
           <e p="Bear.cs" t="Include" />
           <e p="BoolVariables.cs" t="Include" />

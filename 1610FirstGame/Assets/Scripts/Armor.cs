@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AttackUp : MonoBehaviour
+public class Armor : MonoBehaviour
 {
-    public int attack;
+    public int armor;
 
-    public int attackUp;
-    
+    public int armorUp;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,7 +21,6 @@ public class AttackUp : MonoBehaviour
 
     public void OnCollisionEnter2D(Collision2D other)
     {
-        attack += attackUp;
+        armor += armorUp;
     }
-    
 }
