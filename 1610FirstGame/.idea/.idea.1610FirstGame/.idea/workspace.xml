@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5e8d1ef-6076-4213-8aef-b00db667597f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AttackUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AttackUp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,25 +13,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackUp.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              <folding>
-                <marker date="1550525832645" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550525832645" expanded="true" signature="117:445" ph="{...}" />
-                <marker date="1550525832645" expanded="true" signature="243:264" ph="{...}" />
-                <marker date="1550525832645" expanded="true" signature="322:343" ph="{...}" />
-                <marker date="1550525832645" expanded="true" signature="398:438" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Armor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="225">
               <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
               <folding>
                 <marker date="1550525842488" expanded="false" signature="6:78" ph="..." />
@@ -39,6 +23,21 @@
                 <marker date="1550525842488" expanded="true" signature="233:254" ph="{...}" />
                 <marker date="1550525842488" expanded="true" signature="312:333" ph="{...}" />
                 <marker date="1550525842488" expanded="true" signature="388:426" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlameFist.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <marker date="1550630377543" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550630377543" expanded="true" signature="118:380" ph="{...}" />
+                <marker date="1550630377543" expanded="true" signature="278:299" ph="{...}" />
+                <marker date="1550630377543" expanded="true" signature="357:378" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -174,6 +173,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fish.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColorEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlameFist.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpaceShipEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AttackUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Human.cs" root0="FORCE_HIGHLIGHTING" />
@@ -232,6 +232,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AttackUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Armor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlameFist.cs" />
       </list>
     </option>
   </component>
@@ -247,10 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -269,7 +267,10 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,11 +340,12 @@
       <workItem from="1550270214628" duration="103000" />
       <workItem from="1550456120517" duration="195000" />
       <workItem from="1550525646690" duration="215000" />
+      <workItem from="1550630219373" duration="165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18687000" />
+    <option name="totallyTimeSpent" value="18852000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +359,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11337868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.114890404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -515,6 +517,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <marker date="1550525832645" expanded="true" signature="117:445" ph="{...}" />
+            <marker date="1550525832645" expanded="true" signature="243:264" ph="{...}" />
+            <marker date="1550525832645" expanded="true" signature="322:343" ph="{...}" />
+            <marker date="1550525832645" expanded="true" signature="398:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Android.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -618,23 +633,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackUp.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <marker date="1550525832645" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550525832645" expanded="true" signature="117:445" ph="{...}" />
-            <marker date="1550525832645" expanded="true" signature="243:264" ph="{...}" />
-            <marker date="1550525832645" expanded="true" signature="322:343" ph="{...}" />
-            <marker date="1550525832645" expanded="true" signature="398:438" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Armor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="225">
           <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
           <folding>
             <marker date="1550525842488" expanded="false" signature="6:78" ph="..." />
@@ -642,6 +643,19 @@
             <marker date="1550525842488" expanded="true" signature="233:254" ph="{...}" />
             <marker date="1550525842488" expanded="true" signature="312:333" ph="{...}" />
             <marker date="1550525842488" expanded="true" signature="388:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlameFist.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <marker date="1550630377543" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550630377543" expanded="true" signature="118:380" ph="{...}" />
+            <marker date="1550630377543" expanded="true" signature="278:299" ph="{...}" />
+            <marker date="1550630377543" expanded="true" signature="357:378" ph="{...}" />
           </folding>
         </state>
       </provider>

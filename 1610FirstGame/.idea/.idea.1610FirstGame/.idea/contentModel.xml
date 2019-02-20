@@ -25,6 +25,7 @@
           <e p="Enemy.cs" t="Include" />
           <e p="EnemyCount.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
+          <e p="FlameFist.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameVariables.cs" t="Include" />
           <e p="Hawk.cs" t="Include" />
