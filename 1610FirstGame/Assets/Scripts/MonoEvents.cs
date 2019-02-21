@@ -16,7 +16,7 @@ public class MonoEvents : MonoBehaviour
 
     private void OnEnable()
     {
-        
+        enableEvent.Invoke();
     }
 
     private void OnMouseDown()
@@ -28,6 +28,6 @@ public class MonoEvents : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        updateEvent.Invoke();
     }
 }
