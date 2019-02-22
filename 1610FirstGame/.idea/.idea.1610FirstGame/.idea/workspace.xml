@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5e8d1ef-6076-4213-8aef-b00db667597f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GlobalInstances/PowerUps/ShieldLevel.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GlobalInstances/PowerUps/ShieldLevel.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,41 +32,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="210">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
               <folding>
-                <marker date="1550713520404" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550713520404" expanded="true" signature="141:287" ph="{...}" />
-                <marker date="1550713520404" expanded="true" signature="232:285" ph="{...}" />
+                <marker date="1550808125714" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550808125714" expanded="true" signature="141:389" ph="{...}" />
+                <marker date="1550808125714" expanded="true" signature="232:285" ph="{...}" />
+                <marker date="1550808125714" expanded="true" signature="332:387" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShieldInheriting.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-              <folding>
-                <marker date="1550716307120" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550716307120" expanded="true" signature="141:472" ph="{...}" />
-                <marker date="1550716307120" expanded="true" signature="171:217" ph="{...}" />
-                <marker date="1550716307120" expanded="true" signature="250:470" ph="{...}" />
-                <marker date="1550716307120" expanded="true" signature="338:398" ph="{...}" />
-                <marker date="1550716307120" expanded="true" signature="411:464" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackInheriting.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="195">
               <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding>
                 <marker date="1550716649743" expanded="false" signature="6:78" ph="..." />
@@ -83,12 +65,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/OnClickDamage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding>
+                <marker date="1550807988288" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550807988288" expanded="true" signature="148:429" ph="{...}" />
+                <marker date="1550807988288" expanded="true" signature="254:275" ph="{...}" />
+                <marker date="1550807988288" expanded="true" signature="333:354" ph="{...}" />
+                <marker date="1550807988288" expanded="true" signature="386:427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthInheriting.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="210">
               <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding>
-                <marker date="1550715770133" expanded="true" signature="6:130" ph="..." />
+                <marker date="1550715770133" expanded="false" signature="6:130" ph="..." />
                 <marker date="1550715770133" expanded="true" signature="193:593" ph="{...}" />
                 <marker date="1550715770133" expanded="true" signature="276:323" ph="{...}" />
                 <marker date="1550715770133" expanded="true" signature="369:591" ph="{...}" />
@@ -195,6 +193,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bear.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnClickDamage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -241,10 +240,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Armor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlameFist.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthInheriting.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShieldInheriting.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AttackInheriting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OnClickDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
       </list>
     </option>
   </component>
@@ -260,11 +260,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -355,11 +355,12 @@
       <workItem from="1550630219373" duration="165000" />
       <workItem from="1550681667773" duration="3628000" />
       <workItem from="1550713761109" duration="2970000" />
+      <workItem from="1550807822281" duration="404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25450000" />
+    <option name="totallyTimeSpent" value="25854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,7 +374,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117913835" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11942555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -506,6 +507,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShieldInheriting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <marker date="1550716307120" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550716307120" expanded="true" signature="141:472" ph="{...}" />
+            <marker date="1550716307120" expanded="true" signature="171:217" ph="{...}" />
+            <marker date="1550716307120" expanded="true" signature="250:470" ph="{...}" />
+            <marker date="1550716307120" expanded="true" signature="338:398" ph="{...}" />
+            <marker date="1550716307120" expanded="true" signature="411:464" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthInheriting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <marker date="1550715770133" expanded="false" signature="6:130" ph="..." />
+            <marker date="1550715770133" expanded="true" signature="193:593" ph="{...}" />
+            <marker date="1550715770133" expanded="true" signature="276:323" ph="{...}" />
+            <marker date="1550715770133" expanded="true" signature="369:591" ph="{...}" />
+            <marker date="1550715770133" expanded="true" signature="465:585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Mammal.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -570,6 +600,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackInheriting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <marker date="1550716649743" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550716649743" expanded="true" signature="141:489" ph="{...}" />
+            <marker date="1550716649743" expanded="true" signature="171:216" ph="{...}" />
+            <marker date="1550716649743" expanded="true" signature="244:487" ph="{...}" />
+            <marker date="1550716649743" expanded="true" signature="259:319" ph="/* take away from shield ... */" />
+            <marker date="1550716649743" expanded="true" signature="342:406" ph="/* take away from health ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -585,58 +630,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthInheriting.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OnClickDamage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="300">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
-            <marker date="1550715770133" expanded="true" signature="6:130" ph="..." />
-            <marker date="1550715770133" expanded="true" signature="193:593" ph="{...}" />
-            <marker date="1550715770133" expanded="true" signature="276:323" ph="{...}" />
-            <marker date="1550715770133" expanded="true" signature="369:591" ph="{...}" />
-            <marker date="1550715770133" expanded="true" signature="465:585" ph="{...}" />
+            <marker date="1550807988288" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550807988288" expanded="true" signature="148:429" ph="{...}" />
+            <marker date="1550807988288" expanded="true" signature="254:275" ph="{...}" />
+            <marker date="1550807988288" expanded="true" signature="333:354" ph="{...}" />
+            <marker date="1550807988288" expanded="true" signature="386:427" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="210">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
           <folding>
-            <marker date="1550713520404" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550713520404" expanded="true" signature="141:287" ph="{...}" />
-            <marker date="1550713520404" expanded="true" signature="232:285" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShieldInheriting.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <marker date="1550716307120" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550716307120" expanded="true" signature="141:472" ph="{...}" />
-            <marker date="1550716307120" expanded="true" signature="171:217" ph="{...}" />
-            <marker date="1550716307120" expanded="true" signature="250:470" ph="{...}" />
-            <marker date="1550716307120" expanded="true" signature="338:398" ph="{...}" />
-            <marker date="1550716307120" expanded="true" signature="411:464" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackInheriting.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding>
-            <marker date="1550716649743" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550716649743" expanded="true" signature="141:489" ph="{...}" />
-            <marker date="1550716649743" expanded="true" signature="171:216" ph="{...}" />
-            <marker date="1550716649743" expanded="true" signature="244:487" ph="{...}" />
-            <marker date="1550716649743" expanded="true" signature="259:319" ph="/* take away from shield ... */" />
-            <marker date="1550716649743" expanded="true" signature="342:406" ph="/* take away from health ... */" />
+            <marker date="1550808125714" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550808125714" expanded="true" signature="141:389" ph="{...}" />
+            <marker date="1550808125714" expanded="true" signature="232:285" ph="{...}" />
+            <marker date="1550808125714" expanded="true" signature="332:387" ph="{...}" />
           </folding>
         </state>
       </provider>

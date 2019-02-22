@@ -11,4 +11,9 @@ public class PowerUpBase : ScriptableObject
     {
         gloabalPowerUpValue += addValue;
     }
+
+    public void OnPowerDown(float minusValue)
+    {
+        gloabalPowerUpValue -= minusValue;
+    }
 }
