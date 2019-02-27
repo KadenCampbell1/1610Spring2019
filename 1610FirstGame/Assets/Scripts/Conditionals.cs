@@ -1,23 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Conditionals : MonoBehaviour
 {
-    public bool canWalk;
+    public UnityEvent OnEvent, OffEvent;
+    
+    public bool onBool;
     public int number = 11;
     public string password;
     
     // Update is called once per frame
     void Update()
     {
-        if (canWalk)
+        if (onBool)
         {
-            print("True");
+            OnEvent.Invoke();
         }
         else
         {
-            print("False");
+            OffEvent.Invoke();
         }
 
         if (number >= 10)

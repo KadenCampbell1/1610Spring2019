@@ -11,7 +11,7 @@ public class CubeLightScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        theLight = gameObject.GetComponent<Light>();
+        //theLight = gameObject.GetComponent<Light>();
     }
 
     // Update is called once per frame
