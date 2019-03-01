@@ -47,6 +47,7 @@
           <e p="NewOnEvent.cs" t="Include" />
           <e p="NewStringData.cs" t="Include" />
           <e p="OnClickDamage.cs" t="Include" />
+          <e p="OpenObject.cs" t="Include" />
           <e p="PickUps.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
