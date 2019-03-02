@@ -7,6 +7,11 @@
       <e p="1610FirstGame.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="DnD" t="Include">
+          <e p="DnDScripts" t="Include">
+            <e p="DnDCharacterData.cs" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="Android.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
