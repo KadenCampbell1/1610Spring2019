@@ -49,6 +49,7 @@
           <e p="NewBoolData.cs" t="Include" />
           <e p="NewFloatData.cs" t="Include" />
           <e p="NewInventoryData.cs" t="Include" />
+          <e p="newLightSwitch.cs" t="Include" />
           <e p="NewOnEvent.cs" t="Include" />
           <e p="NewStringData.cs" t="Include" />
           <e p="OnClickDamage.cs" t="Include" />
