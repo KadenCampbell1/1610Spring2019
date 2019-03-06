@@ -7,3 +7,5 @@ find student version
 
 uvu server 
 http://dgmls.ad.uvu.edu:8080
+
+stanley artgerm anime artist
