@@ -27,6 +27,7 @@
           <e p="Characters.cs" t="Include" />
           <e p="ColorChanger.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
+          <e p="ComboChecker.cs" t="Include" />
           <e p="Conditionals.cs" t="Include" />
           <e p="CubeLightScript.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
