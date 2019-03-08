@@ -50,6 +50,7 @@
           <e p="MoveCharacter.cs" t="Include" />
           <e p="MoveSingleJump.cs" t="Include" />
           <e p="MoveWithAxis.cs" t="Include" />
+          <e p="MultiPlayer.cs" t="Include" />
           <e p="NewBoolData.cs" t="Include" />
           <e p="NewFloatData.cs" t="Include" />
           <e p="NewInventoryData.cs" t="Include" />

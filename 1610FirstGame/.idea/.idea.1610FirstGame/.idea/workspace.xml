@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5e8d1ef-6076-4213-8aef-b00db667597f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Android.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1550110664795" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550110664795" expanded="true" signature="109:351" ph="{...}" />
-                <marker date="1550110664795" expanded="true" signature="249:270" ph="{...}" />
-                <marker date="1550110664795" expanded="true" signature="328:349" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="360">
               <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding>
                 <marker date="1552023263696" expanded="false" signature="6:104" ph="..." />
@@ -124,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="285">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <marker date="1552023263685" expanded="false" signature="6:78" ph="..." />
@@ -137,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayMusic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="135">
               <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
               <folding>
                 <marker date="1552024856357" expanded="false" signature="6:78" ph="..." />
@@ -148,6 +132,38 @@
                 <marker date="1552024856357" expanded="true" signature="256:290" ph="{...}" />
                 <marker date="1552024856357" expanded="true" signature="348:447" ph="{...}" />
                 <marker date="1552024856357" expanded="true" signature="363:441" ph="/* if song is = to song length then loopSong is true ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1551724526872" expanded="false" signature="6:78" ph="..." />
+                <marker date="1551724526872" expanded="true" signature="134:606" ph="{...}" />
+                <marker date="1551724526872" expanded="true" signature="200:604" ph="{...}" />
+                <marker date="1551724526872" expanded="true" signature="282:383" ph="{...}" />
+                <marker date="1551724526872" expanded="true" signature="396:471" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MultiPlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <marker date="1552083644244" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552083644244" expanded="true" signature="120:506" ph="{...}" />
+                <marker date="1552083644244" expanded="true" signature="265:369" ph="{...}" />
+                <marker date="1552083644244" expanded="true" signature="280:354" ph="/* see how many players are playing ... */" />
+                <marker date="1552083644244" expanded="true" signature="427:504" ph="{...}" />
+                <marker date="1552083644244" expanded="true" signature="442:498" ph="/* see if someone drops out ... */" />
               </folding>
             </state>
           </provider>
@@ -172,6 +188,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hawk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickUps.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeLightScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" root0="FORCE_HIGHLIGHTING" />
@@ -197,7 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Squid.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dog.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Hawk.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyKillCount.cs" />
@@ -248,6 +264,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayMusic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MultiPlayer.cs" />
       </list>
     </option>
   </component>
@@ -262,7 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -282,6 +298,7 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -375,11 +392,12 @@
       <workItem from="1551839800087" duration="183000" />
       <workItem from="1551891249267" duration="3879000" />
       <workItem from="1552024220211" duration="636000" />
+      <workItem from="1552082985063" duration="666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57756000" />
+    <option name="totallyTimeSpent" value="58422000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,7 +411,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10128496" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102796674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -439,13 +457,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpaceShipEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -540,14 +551,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveSingleJump.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TeamScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ComboChecker.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Android.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1550110664795" expanded="false" signature="6:78" ph="..." />
             <marker date="1550110664795" expanded="true" signature="109:351" ph="{...}" />
             <marker date="1550110664795" expanded="true" signature="249:270" ph="{...}" />
             <marker date="1550110664795" expanded="true" signature="328:349" ph="{...}" />
@@ -622,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="360">
           <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding>
             <marker date="1552023263696" expanded="false" signature="6:104" ph="..." />
@@ -638,7 +647,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="285">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <marker date="1552023263685" expanded="false" signature="6:78" ph="..." />
@@ -652,7 +661,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayMusic.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="135">
           <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding>
             <marker date="1552024856357" expanded="false" signature="6:78" ph="..." />
@@ -660,6 +669,34 @@
             <marker date="1552024856357" expanded="true" signature="256:290" ph="{...}" />
             <marker date="1552024856357" expanded="true" signature="348:447" ph="{...}" />
             <marker date="1552024856357" expanded="true" signature="363:441" ph="/* if song is = to song length then loopSong is true ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1551724526872" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551724526872" expanded="true" signature="134:606" ph="{...}" />
+            <marker date="1551724526872" expanded="true" signature="200:604" ph="{...}" />
+            <marker date="1551724526872" expanded="true" signature="282:383" ph="{...}" />
+            <marker date="1551724526872" expanded="true" signature="396:471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MultiPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <marker date="1552083644244" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552083644244" expanded="true" signature="120:506" ph="{...}" />
+            <marker date="1552083644244" expanded="true" signature="265:369" ph="{...}" />
+            <marker date="1552083644244" expanded="true" signature="280:354" ph="/* see how many players are playing ... */" />
+            <marker date="1552083644244" expanded="true" signature="427:504" ph="{...}" />
+            <marker date="1552083644244" expanded="true" signature="442:498" ph="/* see if someone drops out ... */" />
           </folding>
         </state>
       </provider>
