@@ -16,6 +16,7 @@
           <e p="Android.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="AnimationCall.cs" t="Include" />
+          <e p="AnotherAnimCall.cs" t="Include" />
           <e p="Armor.cs" t="Include" />
           <e p="AttackInheriting.cs" t="Include" />
           <e p="AttackUp.cs" t="Include" />
