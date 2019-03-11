@@ -6,8 +6,7 @@ using UnityEngine.Events;
 public class MoveCharacter : MonoBehaviour
 {
     public UnityEvent OnGrounded, OffGrounded;
-    public MoveBase myCharacterMover;
-    
+    public MoveBase myCharacterMover;    
     private CharacterController myController;
     
     // Start is called before the first frame update
