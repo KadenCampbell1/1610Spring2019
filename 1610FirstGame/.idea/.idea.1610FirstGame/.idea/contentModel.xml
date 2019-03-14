@@ -75,6 +75,7 @@
           <e p="StringData.cs" t="Include" />
           <e p="TeamScript.cs" t="Include" />
           <e p="UpdateBar.cs" t="Include" />
+          <e p="Weaponry.cs" t="Include" />
           <e p="WindowLights.cs" t="Include" />
         </e>
       </e>
