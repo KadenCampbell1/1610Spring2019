@@ -22,6 +22,11 @@ public class ReturnFunctions : MonoBehaviour
         return a - b;
     }
 
+    private int Multiply()
+    {
+        return a * b;
+    }
+
     public Vector3 Move()
     {
         position.y = Input.GetAxis("Horizontal");
@@ -35,6 +40,7 @@ public class ReturnFunctions : MonoBehaviour
     {
         c = Add();
         c = Subtract();
+        c = Multiply();
     }
     
     

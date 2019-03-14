@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.PlayerLoop;
 
 [CreateAssetMenu]
 public class DnDCharacterData : ScriptableObject
@@ -19,5 +20,6 @@ public class DnDCharacterData : ScriptableObject
     public int spellSlotMax;
     public int[] spellSlots;
     public int useSpellSlot;
+    public int auraOfHateValue;
     public bool withinAuraOfHate;
 }
