@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5e8d1ef-6076-4213-8aef-b00db667597f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,19 +26,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ReturnFunctions.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Crowd.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="225">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
               <folding>
-                <marker date="1552443240798" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552443240798" expanded="true" signature="124:759" ph="{...}" />
-                <marker date="1552443240798" expanded="true" signature="285:319" ph="{...}" />
-                <marker date="1552443240798" expanded="true" signature="347:381" ph="{...}" />
-                <marker date="1552443240798" expanded="true" signature="409:443" ph="{...}" />
-                <marker date="1552443240798" expanded="true" signature="470:593" ph="{...}" />
-                <marker date="1552443240798" expanded="true" signature="668:747" ph="{...}" />
+                <marker date="1552686066957" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552686066957" expanded="true" signature="114:576" ph="{...}" />
+                <marker date="1552686066957" expanded="true" signature="283:495" ph="{...}" />
+                <marker date="1552686066957" expanded="true" signature="347:489" ph="/* choose random color ... */" />
+                <marker date="1552686066957" expanded="true" signature="553:574" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -57,10 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weaponry.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="120">
               <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
                 <marker date="1552607321151" expanded="false" signature="6:78" ph="..." />
@@ -189,6 +187,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hawk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Crowd.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickUps.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeLightScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" root0="FORCE_HIGHLIGHTING" />
@@ -218,7 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColorEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameVariables.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WindowLights.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorData.cs" />
@@ -269,6 +267,7 @@
         <option value="$PROJECT_DIR$/Assets/DnD/DnDScripts/DnDCharacterData.cs" />
         <option value="$PROJECT_DIR$/Assets/DnD/DnDScripts/DnDFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Weaponry.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Crowd.cs" />
       </list>
     </option>
   </component>
@@ -283,6 +282,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -304,7 +304,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -402,11 +401,12 @@
       <workItem from="1552319759518" duration="4080000" />
       <workItem from="1552442986787" duration="2374000" />
       <workItem from="1552606844630" duration="545000" />
+      <workItem from="1552685528833" duration="542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67131000" />
+    <option name="totallyTimeSpent" value="67673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,7 +420,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1095994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11111111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -466,7 +466,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InventoryData.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackUp.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CelestialBody.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Armor.cs" />
@@ -559,18 +558,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DnD/DnDScripts/DnDMonoEvents.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateBar.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Android.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1550110664795" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550110664795" expanded="true" signature="109:351" ph="{...}" />
-            <marker date="1550110664795" expanded="true" signature="249:270" ph="{...}" />
-            <marker date="1550110664795" expanded="true" signature="328:349" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ReturnFunctions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -583,6 +570,17 @@
             <marker date="1552443240798" expanded="true" signature="409:443" ph="{...}" />
             <marker date="1552443240798" expanded="true" signature="470:593" ph="{...}" />
             <marker date="1552443240798" expanded="true" signature="668:747" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DnD/DnDScripts/DnDCharacterData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <marker date="1552445316581" expanded="false" signature="6:121" ph="..." />
+            <marker date="1552445316581" expanded="true" signature="189:787" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -674,24 +672,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DnD/DnDScripts/DnDCharacterData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <marker date="1552445316581" expanded="false" signature="6:121" ph="..." />
-            <marker date="1552445316581" expanded="true" signature="189:787" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weaponry.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="120">
           <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
             <marker date="1552607321151" expanded="false" signature="6:78" ph="..." />
             <marker date="1552607321151" expanded="true" signature="120:289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Android.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1550110664795" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550110664795" expanded="true" signature="109:351" ph="{...}" />
+            <marker date="1550110664795" expanded="true" signature="249:270" ph="{...}" />
+            <marker date="1550110664795" expanded="true" signature="328:349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Crowd.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <marker date="1552686066957" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552686066957" expanded="true" signature="114:576" ph="{...}" />
+            <marker date="1552686066957" expanded="true" signature="283:495" ph="{...}" />
+            <marker date="1552686066957" expanded="true" signature="347:489" ph="/* choose random color ... */" />
+            <marker date="1552686066957" expanded="true" signature="553:574" ph="{...}" />
           </folding>
         </state>
       </provider>
