@@ -39,6 +39,7 @@
           <e p="Dog.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="EnemyCount.cs" t="Include" />
+          <e p="EnemyType.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
           <e p="FlameFist.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
