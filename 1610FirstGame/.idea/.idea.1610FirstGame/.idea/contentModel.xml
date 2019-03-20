@@ -52,6 +52,7 @@
           <e p="LightChecker.cs" t="Include" />
           <e p="Lightswitch.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
+          <e p="Money.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
           <e p="MoveBase.cs" t="Include" />
           <e p="MoveCharacter.cs" t="Include" />

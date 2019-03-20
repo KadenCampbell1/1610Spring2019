@@ -13,19 +13,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextTracker.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding>
-                <marker date="1552764897365" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552764897365" expanded="true" signature="141:206" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CouncilMembers.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -38,14 +25,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyType.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="105">
               <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <marker date="1552973698462" expanded="false" signature="6:78" ph="..." />
                 <marker date="1552973698462" expanded="true" signature="139:263" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Money.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <marker date="1553113113817" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553113113817" expanded="true" signature="135:268" ph="{...}" />
+                <marker date="1553113113817" expanded="true" signature="220:266" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -188,6 +189,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickUps.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyType.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeLightScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Money.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveSingleJump.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs" root0="FORCE_HIGHLIGHTING" />
@@ -216,7 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Android.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Human.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InventoryData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoolVariables.cs" />
@@ -267,6 +268,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TextTracker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CouncilMembers.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Money.cs" />
       </list>
     </option>
   </component>
@@ -281,11 +283,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -304,6 +304,8 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,11 +406,12 @@
       <workItem from="1552764003715" duration="927000" />
       <workItem from="1552852320913" duration="597000" />
       <workItem from="1552973475148" duration="242000" />
+      <workItem from="1553112200604" duration="918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69439000" />
+    <option name="totallyTimeSpent" value="70357000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,7 +425,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11564626" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11715797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -468,7 +471,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShieldInheriting.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AttackInheriting.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewStringData.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/OnClickDamage.cs" />
@@ -613,8 +615,18 @@
         <state relative-caret-position="30">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding>
-            <marker date="1552764897365" expanded="false" signature="6:78" ph="..." />
             <marker date="1552764897365" expanded="true" signature="141:206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CouncilMembers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1552852529891" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552852529891" expanded="true" signature="144:241" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -717,24 +729,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CouncilMembers.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <marker date="1552852529891" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552852529891" expanded="true" signature="144:241" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyType.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="105">
           <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
             <marker date="1552973698462" expanded="false" signature="6:78" ph="..." />
             <marker date="1552973698462" expanded="true" signature="139:263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Money.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <marker date="1553113113817" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553113113817" expanded="true" signature="135:268" ph="{...}" />
+            <marker date="1553113113817" expanded="true" signature="220:266" ph="{...}" />
           </folding>
         </state>
       </provider>
