@@ -29,6 +29,7 @@
           <e p="CelestialBody.cs" t="Include" />
           <e p="ChangeColorEvent.cs" t="Include" />
           <e p="Characters.cs" t="Include" />
+          <e p="CharacterSwitcher.cs" t="Include" />
           <e p="ColorChanger.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="ComboChecker.cs" t="Include" />
