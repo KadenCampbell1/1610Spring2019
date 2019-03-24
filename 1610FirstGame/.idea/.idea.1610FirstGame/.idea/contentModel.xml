@@ -53,6 +53,7 @@
           <e p="InventoryData.cs" t="Include" />
           <e p="LightChecker.cs" t="Include" />
           <e p="Lightswitch.cs" t="Include" />
+          <e p="Location.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="Money.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
