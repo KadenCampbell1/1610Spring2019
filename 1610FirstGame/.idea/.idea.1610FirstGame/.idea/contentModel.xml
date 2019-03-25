@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Xmen9\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Xmen9\.Rider2018.3\system\resharper-host\Local\Transient\ReSharperHost\v183\SolutionCaches\_1610FirstGame.1266626947.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Xmen9\Desktop\__School\_UVU2019Spring\DGM1610\1610Spring2019\1610FirstGame" t="IncludeRecursive">
+    <e p="C:\Users\10836246\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\10836246\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10836246\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_1610FirstGame.-307011222.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10836246\Documents\Repo\1610Spring2019\1610FirstGame" t="IncludeRecursive">
       <e p="1610FirstGame.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -82,6 +83,10 @@
           <e p="StringData.cs" t="Include" />
           <e p="TeamScript.cs" t="Include" />
           <e p="TextTracker.cs" t="Include" />
+          <e p="TodayScripts" t="Include">
+            <e p="Collection.cs" t="Include" />
+            <e p="FunctionsWithPerams.cs" t="Include" />
+          </e>
           <e p="UpdateBar.cs" t="Include" />
           <e p="Vehicles.cs" t="Include" />
           <e p="Weaponry.cs" t="Include" />
