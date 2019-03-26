@@ -1,16 +1,17 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class DnDMonoEvents : MonoBehaviour
+namespace DnD.DnDScripts
 {
-    //make a DNDFunctions script
-    
-    public UnityEvent onClickEvent;
-
-    private void OnMouseDown()
+    public class DnDMonoEvents : MonoBehaviour
     {
-        onClickEvent.Invoke();
+        //make a DNDFunctions script
+    
+        public UnityEvent onClickEvent;
+
+        private void OnMouseDown()
+        {
+            onClickEvent.Invoke();
+        }
     }
 }
