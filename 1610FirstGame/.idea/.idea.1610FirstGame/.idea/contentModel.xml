@@ -15,82 +15,87 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="Android.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
-          <e p="AnimationCall.cs" t="Include" />
-          <e p="AnotherAnimCall.cs" t="Include" />
-          <e p="Armor.cs" t="Include" />
-          <e p="AttackInheriting.cs" t="Include" />
-          <e p="AttackUp.cs" t="Include" />
-          <e p="Bear.cs" t="Include" />
-          <e p="BoolVariables.cs" t="Include" />
-          <e p="Boss.cs" t="Include" />
-          <e p="Cat.cs" t="Include" />
-          <e p="CelestialBody.cs" t="Include" />
-          <e p="ChangeColorEvent.cs" t="Include" />
-          <e p="Characters.cs" t="Include" />
-          <e p="CharacterSwitcher.cs" t="Include" />
-          <e p="CollectorsItem.cs" t="Include" />
-          <e p="ColorChanger.cs" t="Include" />
-          <e p="ColorData.cs" t="Include" />
-          <e p="ComboChecker.cs" t="Include" />
-          <e p="Conditionals.cs" t="Include" />
-          <e p="CouncilMembers.cs" t="Include" />
-          <e p="Crowd.cs" t="Include" />
           <e p="CubeLightScript.cs" t="Include" />
-          <e p="Dog.cs" t="Include" />
-          <e p="Enemy.cs" t="Include" />
-          <e p="EnemyCount.cs" t="Include" />
-          <e p="EnemyType.cs" t="Include" />
-          <e p="Fish.cs" t="Include" />
-          <e p="FlameFist.cs" t="Include" />
-          <e p="FloatData.cs" t="Include" />
-          <e p="GameVariables.cs" t="Include" />
-          <e p="GlobalCharacterData.cs" t="Include" />
-          <e p="Hawk.cs" t="Include" />
+          <e p="DailyScripts" t="Include">
+            <e p="Android.cs" t="Include" />
+            <e p="AnotherAnimCall.cs" t="Include" />
+            <e p="Armor.cs" t="Include" />
+            <e p="AttackInheriting.cs" t="Include" />
+            <e p="AttackUp.cs" t="Include" />
+            <e p="Bear.cs" t="Include" />
+            <e p="Boss.cs" t="Include" />
+            <e p="Cat.cs" t="Include" />
+            <e p="CelestialBody.cs" t="Include" />
+            <e p="ChangeColorEvent.cs" t="Include" />
+            <e p="Characters.cs" t="Include" />
+            <e p="CharacterSwitcher.cs" t="Include" />
+            <e p="ColorChanger.cs" t="Include" />
+            <e p="ComboChecker.cs" t="Include" />
+            <e p="CouncilMembers.cs" t="Include" />
+            <e p="Crowd.cs" t="Include" />
+            <e p="Dog.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="EnemyCount.cs" t="Include" />
+            <e p="EnemyType.cs" t="Include" />
+            <e p="Fish.cs" t="Include" />
+            <e p="FlameFist.cs" t="Include" />
+            <e p="Hawk.cs" t="Include" />
+            <e p="Human.cs" t="Include" />
+            <e p="InventoryData.cs" t="Include" />
+            <e p="LightChecker.cs" t="Include" />
+            <e p="Location.cs" t="Include" />
+            <e p="Mammal.cs" t="Include" />
+            <e p="MultiPlayer.cs" t="Include" />
+            <e p="NewBoolData.cs" t="Include" />
+            <e p="NewCollectionData.cs" t="Include" />
+            <e p="NewFloatData.cs" t="Include" />
+            <e p="NewFunctionsWithPerams.cs" t="Include" />
+            <e p="NewInventoryData.cs" t="Include" />
+            <e p="newLightSwitch.cs" t="Include" />
+            <e p="NewOnEvent.cs" t="Include" />
+            <e p="NewStringData.cs" t="Include" />
+            <e p="PickUps.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayMusic.cs" t="Include" />
+            <e p="ShieldInheriting.cs" t="Include" />
+            <e p="Snail.cs" t="Include" />
+            <e p="Squid.cs" t="Include" />
+            <e p="TeamScript.cs" t="Include" />
+            <e p="TextTracker.cs" t="Include" />
+            <e p="Vehicles.cs" t="Include" />
+            <e p="Weaponry.cs" t="Include" />
+            <e p="WindowLights.cs" t="Include" />
+          </e>
           <e p="HealthInheriting.cs" t="Include" />
-          <e p="Human.cs" t="Include" />
-          <e p="InventoryData.cs" t="Include" />
-          <e p="LightChecker.cs" t="Include" />
+          <e p="ImportantScripts" t="Include">
+            <e p="AnimationCall.cs" t="Include" />
+            <e p="BoolVariables.cs" t="Include" />
+            <e p="CollectorsItem.cs" t="Include" />
+            <e p="ColorData.cs" t="Include" />
+            <e p="Conditionals.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="GameVariables.cs" t="Include" />
+            <e p="GlobalCharacterData.cs" t="Include" />
+            <e p="MonoEvents.cs" t="Include" />
+            <e p="MoveCharacter.cs" t="Include" />
+            <e p="MoveSingleJump.cs" t="Include" />
+            <e p="MoveWithAxis.cs" t="Include" />
+            <e p="PowerUpBase.cs" t="Include" />
+            <e p="ReturnFunctions.cs" t="Include" />
+          </e>
           <e p="Lightswitch.cs" t="Include" />
-          <e p="Location.cs" t="Include" />
-          <e p="Mammal.cs" t="Include" />
           <e p="Money.cs" t="Include" />
-          <e p="MonoEvents.cs" t="Include" />
           <e p="MoveBase.cs" t="Include" />
-          <e p="MoveCharacter.cs" t="Include" />
-          <e p="MoveSingleJump.cs" t="Include" />
-          <e p="MoveWithAxis.cs" t="Include" />
-          <e p="MultiPlayer.cs" t="Include" />
-          <e p="NewBoolData.cs" t="Include" />
-          <e p="NewCollectionData.cs" t="Include" />
-          <e p="NewFloatData.cs" t="Include" />
-          <e p="NewInventoryData.cs" t="Include" />
-          <e p="newLightSwitch.cs" t="Include" />
-          <e p="NewOnEvent.cs" t="Include" />
-          <e p="NewStringData.cs" t="Include" />
           <e p="OnClickDamage.cs" t="Include" />
           <e p="OpenObject.cs" t="Include" />
-          <e p="PickUps.cs" t="Include" />
-          <e p="Player.cs" t="Include" />
-          <e p="PlayMusic.cs" t="Include" />
-          <e p="PowerUpBase.cs" t="Include" />
-          <e p="ReturnFunctions.cs" t="Include" />
-          <e p="ShieldInheriting.cs" t="Include" />
-          <e p="Snail.cs" t="Include" />
           <e p="SpaceShipEvent.cs" t="Include" />
-          <e p="Squid.cs" t="Include" />
           <e p="StringData.cs" t="Include" />
-          <e p="TeamScript.cs" t="Include" />
-          <e p="TextTracker.cs" t="Include" />
           <e p="TodayScripts" t="Include">
             <e p="Collection.cs" t="Include" />
             <e p="FunctionsWithPerams.cs" t="Include" />
           </e>
           <e p="UpdateBar.cs" t="Include" />
-          <e p="Vehicles.cs" t="Include" />
-          <e p="Weaponry.cs" t="Include" />
-          <e p="WindowLights.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
