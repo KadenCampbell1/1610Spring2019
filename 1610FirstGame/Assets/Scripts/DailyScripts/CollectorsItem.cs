@@ -1,11 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-[CreateAssetMenu]
-public class CollectorsItem : ScriptableObject
+namespace DailyScripts
 {
-    public int itemSpace;
-    public string itemName;
-    public string itemAbility;
+    [CreateAssetMenu]
+    public class CollectorsItem : ScriptableObject
+    {
+        public int itemSpace;
+        public string itemName;
+        public string itemAbility;
+    }
 }

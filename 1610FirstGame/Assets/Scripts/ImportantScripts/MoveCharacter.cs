@@ -7,7 +7,7 @@ public class MoveCharacter : MonoBehaviour
 {
     public UnityEvent OnGrounded, OffGrounded;
     public MoveBase myCharacterMover;    
-    private CharacterController myController;
+    public CharacterController myController;
     
     // Start is called before the first frame update
     void Start()

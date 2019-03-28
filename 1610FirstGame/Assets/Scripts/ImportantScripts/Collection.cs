@@ -38,7 +38,7 @@ namespace ImportantScripts
             {
                 if (collectionList[i].name == "Fuel")
                 {
-                    Debug.Log(collectionList[i]);
+                    Debug.Log(i + " " + collectionList[i]);
                 }
             }
         }
