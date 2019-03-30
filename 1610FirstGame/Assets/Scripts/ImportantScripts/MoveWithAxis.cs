@@ -1,22 +1,23 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-[CreateAssetMenu]
-public class MoveWithAxis : MoveBase
+namespace ImportantScripts
 {
-    public override void Move(CharacterController myController)
+    [CreateAssetMenu]
+    public class MoveWithAxis : MoveBase
     {
-        if (Input.GetAxis("Vertical") > 0 || Input.GetAxis("Vertical") < 0)
+        public override void Move(CharacterController myController)
         {
-            myPosition.y = Input.GetAxis("Vertical") * mySpeed * Time.deltaTime;
-        }
-        else
-        {
-            myPosition.y = myGravity * Time.deltaTime;
-        }
+            if (Input.GetAxis("Vertical") > 0 || Input.GetAxis("Vertical") < 0)
+            {
+                myPosition.y = Input.GetAxis("Vertical") * mySpeed * Time.deltaTime;
+            }
+            else
+            {
+                myPosition.y = myGravity * Time.deltaTime;
+            }
 
             myPosition.x = Input.GetAxis("Horizontal") * mySpeed * Time.deltaTime;
             myController.Move(myPosition);
+        }
     }
 }

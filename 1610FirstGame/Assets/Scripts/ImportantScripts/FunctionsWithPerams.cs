@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TodayScripts
+namespace ImportantScripts
 {
     public class FunctionsWithPerams : MonoBehaviour
     {

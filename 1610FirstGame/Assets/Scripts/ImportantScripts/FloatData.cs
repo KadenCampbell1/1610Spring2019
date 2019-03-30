@@ -1,25 +1,26 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-[CreateAssetMenu]
-public class FloatData : ScriptableObject
+namespace ImportantScripts
 {
-    [SerializeField] private float value;
-
-    public float Value
+    [CreateAssetMenu]
+    public class FloatData : ScriptableObject
     {
-        get { return value; }
-        set { this.value = value; }
-    }
+        [SerializeField] private float value;
 
-    public void UpdateValue(float floatInput)
-    {
-        Value += floatInput;
-    }
+        public float Value
+        {
+            get { return value; }
+            set { this.value = value; }
+        }
 
-    public void UpdateVoid(FloatData dataObject)
-    {
-        Value += dataObject.Value;
+        public void UpdateValue(float floatInput)
+        {
+            Value += floatInput;
+        }
+
+        public void UpdateVoid(FloatData dataObject)
+        {
+            Value += dataObject.Value;
+        }
     }
 }

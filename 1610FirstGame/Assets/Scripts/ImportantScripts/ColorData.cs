@@ -1,9 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-[CreateAssetMenu]
-public class ColorData : ScriptableObject
+namespace ImportantScripts
 {
-    public Color value;
+    [CreateAssetMenu]
+    public class ColorData : ScriptableObject
+    {
+        public Color value;
+    }
 }

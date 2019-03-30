@@ -1,9 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-[CreateAssetMenu]
-public class BoolVariables : ScriptableObject
+namespace ImportantScripts
 {
-    public bool globalBool;
+    [CreateAssetMenu]
+    public class BoolVariables : ScriptableObject
+    {
+        public bool globalBool;
+    }
 }

@@ -1,38 +1,39 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class MonoEvents : MonoBehaviour
+namespace ImportantScripts
 {
+    public class MonoEvents : MonoBehaviour
+    {
 
-    public UnityEvent startEvent, enableEvent, mouseDownEvent, updateEvent, TriggerEnterEvent;
+        public UnityEvent startEvent, enableEvent, mouseDownEvent, updateEvent, TriggerEnterEvent;
     
     
-    void Start()
-    {
-        startEvent.Invoke();
-    }
+        void Start()
+        {
+            startEvent.Invoke();
+        }
 
-    private void OnEnable()
-    {
-        enableEvent.Invoke();
-    }
+        private void OnEnable()
+        {
+            enableEvent.Invoke();
+        }
 
-    private void OnMouseDown()
-    {
-        mouseDownEvent.Invoke();
-    }
+        private void OnMouseDown()
+        {
+            mouseDownEvent.Invoke();
+        }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        TriggerEnterEvent.Invoke();
-    }
+        private void OnTriggerEnter(Collider other)
+        {
+            TriggerEnterEvent.Invoke();
+        }
 
 
-    // Update is called once per frame
-    void Update()
-    {
-        updateEvent.Invoke();
+        // Update is called once per frame
+        void Update()
+        {
+            updateEvent.Invoke();
+        }
     }
 }

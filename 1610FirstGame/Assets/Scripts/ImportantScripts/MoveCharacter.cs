@@ -1,38 +1,39 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class MoveCharacter : MonoBehaviour
+namespace ImportantScripts
 {
-    public UnityEvent OnGrounded, OffGrounded;
-    public MoveBase myCharacterMover;    
-    public CharacterController myController;
+    public class MoveCharacter : MonoBehaviour
+    {
+        public UnityEvent OnGrounded, OffGrounded;
+        public MoveBase myCharacterMover;    
+        public CharacterController myController;
     
-    // Start is called before the first frame update
-    void Start()
-    {
-        myController = GetComponent<CharacterController>();
-    }
+        // Start is called before the first frame update
+        void Start()
+        {
+            myController = GetComponent<CharacterController>();
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        if (myController.isGrounded)
+        // Update is called once per frame
+        void Update()
         {
-            OnGrounded.Invoke();
-        }
-        else
-        {
-            OffGrounded.Invoke();
-        }
+            if (myController.isGrounded)
+            {
+                OnGrounded.Invoke();
+            }
+            else
+            {
+                OffGrounded.Invoke();
+            }
         
-        myCharacterMover.Move(myController);
+            myCharacterMover.Move(myController);
 
 //
 
         
         
         
+        }
     }
 }

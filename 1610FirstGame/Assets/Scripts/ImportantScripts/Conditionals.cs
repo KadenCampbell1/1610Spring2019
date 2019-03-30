@@ -1,45 +1,46 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class Conditionals : MonoBehaviour
+namespace ImportantScripts
 {
-    public UnityEvent OnEvent, OffEvent;
-    
-    public bool onBool;
-    public int number = 11;
-    public string password;
-    
-    // Update is called once per frame
-    void Update()
+    public class Conditionals : MonoBehaviour
     {
-        if (onBool)
+        public UnityEvent OnEvent, OffEvent;
+    
+        public bool onBool;
+        public int number = 11;
+        public string password;
+    
+        // Update is called once per frame
+        void Update()
         {
-            OnEvent.Invoke();
-        }
-        else
-        {
-            OffEvent.Invoke();
-        }
+            if (onBool)
+            {
+                OnEvent.Invoke();
+            }
+            else
+            {
+                OffEvent.Invoke();
+            }
 
-        if (number >= 10)
-        {
-            print("greater");
-        }
-        else
-        {
-            print("less");
-        }
+            if (number >= 10)
+            {
+                print("greater");
+            }
+            else
+            {
+                print("less");
+            }
 
-        if (password == "Images")
-        {
-            print("and Words");
-        }
-        else
-        {
-            print("Over Time");
-        }
+            if (password == "Images")
+            {
+                print("and Words");
+            }
+            else
+            {
+                print("Over Time");
+            }
         
+        }
     }
 }

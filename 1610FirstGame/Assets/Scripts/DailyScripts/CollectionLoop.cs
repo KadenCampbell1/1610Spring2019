@@ -13,7 +13,7 @@ namespace DailyScripts
     [CreateAssetMenu]
     public class CollectionLoop : Collection
     {
-        public FloatData floatDataItem;
+//        public FloatData floatDataItem;
 //        public UnityEvent onTriggerEvent;
 //        public List<Object> collectionLoopList;
 
@@ -26,12 +26,12 @@ namespace DailyScripts
 */
 
 
-        public void CollectLoop()
-        {
-            foreach (var obj in floatDataItem)
-            {
-                collectionList.Add(obj);
-            }
-        }
+//        public void CollectLoop()
+//        {
+//            foreach (var obj in floatDataItem)
+//            {
+//                collectionList.Add(obj);
+//            }
+//        }
     }
 }
