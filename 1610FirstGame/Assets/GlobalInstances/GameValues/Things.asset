@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dd08aadcbd031b418c760302644ad85, type: 3}
   m_Name: Things
   m_EditorClassIdentifier: 
-  collectionList: []
+  collectionList:
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
+  - {fileID: 11400000, guid: d50991910e3439a4d85e92713e9565c7, type: 2}
