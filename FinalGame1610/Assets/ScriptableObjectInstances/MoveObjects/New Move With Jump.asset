@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mySpeed: 10
   mySprintSpeed: 20
-  jumpForce: 0.7
+  jumpForce: 0.9
   myGravity: -3
   originalSpeed: 10

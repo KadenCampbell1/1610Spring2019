@@ -10,7 +10,7 @@ public class MoveWithJump : MoveBase
     public override void Move(CharacterController myController)
     {
         
-        if (myController.isGrounded && Input.GetButton("Jump"))
+        if (myController.isGrounded && Input.GetButton("Vertical"))
         {
             myPosition.y = jumpForce;
         }
