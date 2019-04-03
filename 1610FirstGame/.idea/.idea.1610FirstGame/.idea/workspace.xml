@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5e8d1ef-6076-4213-8aef-b00db667597f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610FirstGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/newScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/newScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalGame1610/.idea/.idea.FinalGame1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalGame1610/.idea/.idea.FinalGame1610/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalGame1610/.idea/.idea.FinalGame1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalGame1610/.idea/.idea.FinalGame1610/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalGame1610/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalGame1610/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalGame1610/Assets/_Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalGame1610/Assets/_Scenes/Scene1.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +18,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DailyScripts/WeaponSwitch.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state relative-caret-position="450">
+              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
               <folding>
-                <marker date="1554174947289" expanded="true" signature="6:118" ph="..." />
+                <marker date="1554174947289" expanded="false" signature="6:118" ph="..." />
                 <marker date="1554174947289" expanded="true" signature="182:1079" ph="{...}" />
                 <marker date="1554174947289" expanded="true" signature="280:340" ph="{...}" />
                 <marker date="1554174947289" expanded="true" signature="409:461" ph="{...}" />
@@ -29,6 +29,35 @@
                 <marker date="1554174947289" expanded="true" signature="589:643" ph="{...}" />
                 <marker date="1554174947289" expanded="true" signature="675:1076" ph="{...}" />
                 <marker date="1554174947289" expanded="true" signature="707:1070" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/MoveWithAxis.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1553827398007" expanded="true" signature="46:637" ph="{...}" />
+                <marker date="1553827398007" expanded="true" signature="111:635" ph="{...}" />
+                <marker date="1553827398007" expanded="true" signature="185:629" ph="{...}" />
+                <marker date="1553827398007" expanded="true" signature="275:388" ph="{...}" />
+                <marker date="1553827398007" expanded="true" signature="405:492" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/MoveSingleJump.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1553827397987" expanded="true" signature="46:549" ph="{...}" />
+                <marker date="1553827397987" expanded="true" signature="113:547" ph="{...}" />
+                <marker date="1553827397987" expanded="true" signature="191:541" ph="{...}" />
+                <marker date="1553827397987" expanded="true" signature="269:339" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -218,6 +247,10 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -241,10 +274,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -366,11 +395,12 @@
       <workItem from="1554073188385" duration="3663000" />
       <workItem from="1554135205550" duration="3570000" />
       <workItem from="1554174047556" duration="1535000" />
+      <workItem from="1554261076057" duration="1245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107737000" />
+    <option name="totallyTimeSpent" value="108982000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,7 +414,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.023431595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16250944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -562,14 +592,21 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/AnimationCall.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/MoveSingleJump.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/MoveWithAxis.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DailyScripts/Squid.cs">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/UpdateBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553827398072" expanded="false" signature="6:40" ph="..." />
+            <marker date="1553827398072" expanded="true" signature="68:482" ph="{...}" />
+            <marker date="1553827398072" expanded="true" signature="113:480" ph="{...}" />
+            <marker date="1553827398072" expanded="true" signature="270:336" ph="{...}" />
+            <marker date="1553827398072" expanded="true" signature="402:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TodayScripts/StateMachine.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -598,25 +635,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/UpdateBar.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/MoveSingleJump.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1553827398072" expanded="false" signature="6:40" ph="..." />
-            <marker date="1553827398072" expanded="true" signature="68:482" ph="{...}" />
-            <marker date="1553827398072" expanded="true" signature="113:480" ph="{...}" />
-            <marker date="1553827398072" expanded="true" signature="270:336" ph="{...}" />
-            <marker date="1553827398072" expanded="true" signature="402:474" ph="{...}" />
+            <marker date="1553827397987" expanded="true" signature="46:549" ph="{...}" />
+            <marker date="1553827397987" expanded="true" signature="113:547" ph="{...}" />
+            <marker date="1553827397987" expanded="true" signature="191:541" ph="{...}" />
+            <marker date="1553827397987" expanded="true" signature="269:339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImportantScripts/MoveWithAxis.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553827398007" expanded="true" signature="46:637" ph="{...}" />
+            <marker date="1553827398007" expanded="true" signature="111:635" ph="{...}" />
+            <marker date="1553827398007" expanded="true" signature="185:629" ph="{...}" />
+            <marker date="1553827398007" expanded="true" signature="275:388" ph="{...}" />
+            <marker date="1553827398007" expanded="true" signature="405:492" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DailyScripts/WeaponSwitch.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="39" lean-forward="true" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="450">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
           <folding>
-            <marker date="1554174947289" expanded="true" signature="6:118" ph="..." />
+            <marker date="1554174947289" expanded="false" signature="6:118" ph="..." />
             <marker date="1554174947289" expanded="true" signature="182:1079" ph="{...}" />
             <marker date="1554174947289" expanded="true" signature="280:340" ph="{...}" />
             <marker date="1554174947289" expanded="true" signature="409:461" ph="{...}" />
