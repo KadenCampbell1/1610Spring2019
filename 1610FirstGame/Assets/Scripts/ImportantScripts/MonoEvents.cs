@@ -6,7 +6,7 @@ namespace ImportantScripts
     public class MonoEvents : MonoBehaviour
     {
 
-        public UnityEvent startEvent, enableEvent, mouseDownEvent, updateEvent, TriggerEnterEvent;
+        public UnityEvent startEvent, enableEvent, mouseDownEvent, updateEvent, TriggerEnterEvent, CollisionEnterEvent;
     
     
         void Start()
@@ -27,6 +27,11 @@ namespace ImportantScripts
         private void OnTriggerEnter(Collider other)
         {
             TriggerEnterEvent.Invoke();
+        }
+
+        private void OnCollisionEnter(Collision other)
+        {
+            CollisionEnterEvent.Invoke();
         }
 
 
