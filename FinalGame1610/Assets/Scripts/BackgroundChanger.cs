@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Integrated from school
 public class BackgroundChanger : MonoBehaviour
 {
     public BackgroundValues myBackgroundValues;

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Integrated from school
 [CreateAssetMenu]
 public class BackgroundValues : ScriptableObject
 {
