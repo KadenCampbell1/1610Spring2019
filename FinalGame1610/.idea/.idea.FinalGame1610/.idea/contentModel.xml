@@ -11,8 +11,10 @@
           <e p="BackgroundChanger.cs" t="Include" />
           <e p="BackgroundValues.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="MonoEvents.cs" t="Include" />
           <e p="MoveBase.cs" t="Include" />
           <e p="MoveWithJump.cs" t="Include" />
+          <e p="TrackCharacter.cs" t="Include" />
         </e>
       </e>
       <e p="FinalGame1610.sln" t="IncludeFlat" />
