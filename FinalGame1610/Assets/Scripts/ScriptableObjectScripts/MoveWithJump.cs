@@ -1,15 +1,13 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 //Integrated code from school lessons
 [CreateAssetMenu]
 public class MoveWithJump : MoveBase
 {
     public float originalSpeed;
+
     public override void Move(CharacterController myController)
     {
-        
         if (myController.isGrounded && Input.GetButton("Vertical"))
         {
             myPosition.y = jumpForce;
@@ -29,3 +27,4 @@ public class MoveWithJump : MoveBase
         myController.Move(myPosition);
     }
 }
+

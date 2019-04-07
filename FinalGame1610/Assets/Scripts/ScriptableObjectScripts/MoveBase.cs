@@ -1,8 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 //Integrated code from school lessons
+
 [CreateAssetMenu]
 public abstract class MoveBase : ScriptableObject
 {

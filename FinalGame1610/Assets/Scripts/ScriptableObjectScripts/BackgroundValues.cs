@@ -1,8 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 //Integrated from school
+
 [CreateAssetMenu]
 public class BackgroundValues : ScriptableObject
 {
@@ -20,6 +19,6 @@ public class BackgroundValues : ScriptableObject
         Midground,
         Background
     }
-
+    
     public MyBackgroundName myName;
 }

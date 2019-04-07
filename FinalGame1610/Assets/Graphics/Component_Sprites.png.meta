@@ -144,10 +144,10 @@ TextureImporter:
       name: Coin
       rect:
         serializedVersion: 2
-        x: 1228
+        x: 1219
         y: 1192
-        width: 181
-        height: 184
+        width: 190
+        height: 181
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
