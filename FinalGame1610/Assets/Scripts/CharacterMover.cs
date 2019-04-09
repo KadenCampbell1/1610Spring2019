@@ -26,22 +26,23 @@ public class CharacterMover : MonoBehaviour
     {
         
         
-        if (flipCamera)
+//        if (flipCamera)
+//        {
+//            myCamera.transform.position.x = -myCamera.transform.position.x;
+//        }
+
+        if (Input.GetKeyDown("x"))
         {
-            //myCamera.transform.position.x = -myCamera.transform.position.x;
+            //mySpriteRenderer.flipX = true; 
+            //flipCamera = true;
+            gameObject.transform.Rotate(0,180,0);
         }
 
-        if (Input.GetKey("x"))
-        {
-            mySpriteRenderer.flipX = true; 
-            flipCamera = true;
-        }
-
-        if (Input.GetKey("c"))
-        {
-            mySpriteRenderer.flipX = false;
-            flipCamera = false;
-        }
+//        if (Input.GetKey("c"))
+//        {
+//            mySpriteRenderer.flipX = false;
+//            flipCamera = false;
+//        }
         
         myCharacterMover.Move(myController);
     }

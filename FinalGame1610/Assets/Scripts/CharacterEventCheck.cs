@@ -13,6 +13,7 @@ public class CharacterEventCheck : MonoBehaviour
     {
         Item,
         Damage,
+        Wall
     }
 
     public MyCollider CurrentCollider;
@@ -20,21 +21,29 @@ public class CharacterEventCheck : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject == myCollider.gameObject)
+        //if (other.gameObject == myCollider.gameObject)
+
+        switch (CurrentCollider)
         {
-            switch (CurrentCollider)
-            {
-                case MyCollider.Item:
-                    myEvent.AddValue(typeValue);
-                    gameObject.SetActive(false);
-                    break;
-                case MyCollider.Damage:
-                    other.gameObject.GetComponent<UpdateBar>().fillNumber = myEvent.typeSobj;
-                    myEvent.AddValue(typeValue);
-                    break;
-                default:
-                    throw new ArgumentOutOfRangeException();
-            }
+            case MyCollider.Item:
+                myEvent.AddValue(typeValue);
+                gameObject.SetActive(false);
+                break;
+            case MyCollider.Damage:
+//                    if (other.name == "Snail")
+//                    {
+//                        other.gameObject.GetComponent<UpdateBar>().fillNumber = myEvent.typeSobj;  
+//                    }
+                //myEvent.typeSobj = other.GetComponent<MyEvents>().thisObjSobj;
+                myEvent.AddValue(typeValue);
+                //myEvent.typeSobj = null;
+                break;
+            case MyCollider.Wall:
+                //myEvent.typeSobj = null;
+                break;
+            default:
+                throw new ArgumentOutOfRangeException();
         }
+        
     }
 }

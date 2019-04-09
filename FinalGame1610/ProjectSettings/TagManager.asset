@@ -17,9 +17,9 @@ TagManager:
   - Ground
   - Enemy
   - ChangeDirection
-  - 
-  - 
-  - 
+  - Player
+  - Punch
+  - Item
   - 
   - 
   - 
