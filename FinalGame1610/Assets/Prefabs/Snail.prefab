@@ -88,6 +88,8 @@ GameObject:
   - component: {fileID: 3181620922589820357}
   - component: {fileID: 3181620922589820353}
   - component: {fileID: 3181620922589820382}
+  - component: {fileID: 8090109783112855580}
+  - component: {fileID: 8609740742331054991}
   m_Layer: 10
   m_Name: Snail
   m_TagString: Untagged
@@ -230,6 +232,35 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &8090109783112855580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3181620922589820356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fbb0945d0dc1a843a7963a72370d906, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myCollider: {fileID: 0}
+  myEvent: {fileID: 8609740742331054991}
+  typeValue: -0.1
+  CurrentCollider: 1
+--- !u!114 &8609740742331054991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3181620922589820356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccd14e8f4a39a7d4fb3047fb45ecabcb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  typeSobj: {fileID: 11400000, guid: f168e6ff8b0c34549913f407e196a03d, type: 2}
 --- !u!1 &4072919663726162859
 GameObject:
   m_ObjectHideFlags: 0

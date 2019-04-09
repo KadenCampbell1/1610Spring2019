@@ -33,7 +33,7 @@ public class CharacterMover : MonoBehaviour
 
         if (Input.GetKey("x"))
         {
-            mySpriteRenderer.flipX = true;
+            mySpriteRenderer.flipX = true; 
             flipCamera = true;
         }
 

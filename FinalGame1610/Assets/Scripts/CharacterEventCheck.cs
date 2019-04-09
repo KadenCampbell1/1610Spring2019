@@ -6,16 +6,18 @@ using UnityEngine;
 public class CharacterEventCheck : MonoBehaviour
 {
     public Collider myCollider;
+    public MyEvents myEvent;
+    public float typeValue;
     
     public enum MyCollider
     {
         Item,
-        Damage
+        Damage,
     }
 
     public MyCollider CurrentCollider;
 
-    //trigger event could be problem
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject == myCollider.gameObject)
@@ -23,9 +25,12 @@ public class CharacterEventCheck : MonoBehaviour
             switch (CurrentCollider)
             {
                 case MyCollider.Item:
-                    print("test");
+                    myEvent.AddValue(typeValue);
+                    gameObject.SetActive(false);
                     break;
                 case MyCollider.Damage:
+                    other.gameObject.GetComponent<UpdateBar>().fillNumber = myEvent.typeSobj;
+                    myEvent.AddValue(typeValue);
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();
