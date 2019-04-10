@@ -6,9 +6,9 @@ using UnityEngine;
 [CreateAssetMenu]
 public class ListOfThings : ScriptableObject
 {
-    public List<FloatSobjData> collectionList;
+    public List<GameObject> collectionList;
     
-    public void Collect(FloatSobjData obj)
+    public void Collect(GameObject obj)
     {
         collectionList.Add(obj);
     }
