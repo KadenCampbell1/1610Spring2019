@@ -11,6 +11,8 @@ public class AiChangeDirection : MonoBehaviour
     public Rigidbody myRigidBody;
     public float enemySpeed;
     public bool verticalMovement;
+    public bool doesRotate;
+    public bool rotateSprite;
     
     // Start is called before the first frame update
     void Start()
@@ -21,6 +23,7 @@ public class AiChangeDirection : MonoBehaviour
     public void ChangeMoveLeft()
     {
         moveLeft = !moveLeft;
+        rotateSprite = !rotateSprite;
     }
 
     // Update is called once per frame
@@ -30,12 +33,20 @@ public class AiChangeDirection : MonoBehaviour
         {
             if (moveLeft)
             {
-                transform.localScale = new Vector2(-1, 1);
+                if (doesRotate)
+                {
+                    GetComponent<SpriteRenderer>().flipX = rotateSprite;
+                }
+                
                 myRigidBody.velocity = new Vector2(-enemySpeed, myRigidBody.velocity.y);
             }
             else
             {
-                transform.localScale = new Vector2(1, 1);
+                if (doesRotate)
+                {
+                    GetComponent<SpriteRenderer>().flipX = rotateSprite;
+                }
+                
                 myRigidBody.velocity = new Vector2(enemySpeed, myRigidBody.velocity.y);
             }
         }
@@ -43,12 +54,12 @@ public class AiChangeDirection : MonoBehaviour
         {
             if (moveLeft)
             {
-                transform.localScale = new Vector2(-1, 1);
+                
                 myRigidBody.velocity = new Vector2(myRigidBody.velocity.x, -enemySpeed);
             }
             else
             {
-                transform.localScale = new Vector2(1, 1);
+                
                 myRigidBody.velocity = new Vector2(myRigidBody.velocity.x, enemySpeed);
             }
         }

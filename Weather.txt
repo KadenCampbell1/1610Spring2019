@@ -16,3 +16,9 @@ zbrush class 260R from Anthony
 add in the cave or somewhere cubes that float around when you collide with them
 
 cinemamachine
+
+github search for navMeshComonents by UserEnterTechnologies
+
+https://github.com/Unity-Technologies/NavMeshComponents
+
+navmesh surfice is what needs to be used

@@ -191,6 +191,9 @@ MonoBehaviour:
   moveLeft: 0
   myRigidBody: {fileID: 3181620922589820354}
   enemySpeed: 5
+  verticalMovement: 0
+  doesRotate: 1
+  rotateSprite: 0
 --- !u!65 &3181620922589820353
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -230,6 +233,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  OnCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &8090109783112855580
