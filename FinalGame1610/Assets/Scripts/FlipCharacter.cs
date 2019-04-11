@@ -4,8 +4,26 @@ using UnityEngine;
 
 public class FlipCharacter : MonoBehaviour
 {
-    private void OnTriggerExit(Collider other)
+    public bool spriteFlipped;
+
+    public void SpriteFlipEvent()
     {
-        transform.Rotate(0, 180, 0);
+        spriteFlipped = !spriteFlipped;
+    }
+    
+    private void OnTriggerEnter(Collider other)
+    {
+        if (spriteFlipped)
+        {
+            transform.Rotate(0,180,0);
+            spriteFlipped = false;
+        }
+
+        if (!spriteFlipped)
+        {
+            transform.Rotate(180,0,180);
+            spriteFlipped = true;
+        }
+        
     }
 }
