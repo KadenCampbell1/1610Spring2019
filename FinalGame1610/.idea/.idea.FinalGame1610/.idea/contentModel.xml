@@ -11,6 +11,7 @@
           <e p="BackgroundChanger.cs" t="Include" />
           <e p="CharacterEventCheck.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="DamageTrigger.cs" t="Include" />
           <e p="EnemyNavAi.cs" t="Include" />
           <e p="FlipCharacter.cs" t="Include" />
           <e p="ItemDrop.cs" t="Include" />

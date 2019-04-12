@@ -175,6 +175,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7397753965291956373}
   - component: {fileID: 7397753965291956372}
+  - component: {fileID: 7184504250196413128}
+  - component: {fileID: 3206638831059164672}
   m_Layer: 0
   m_Name: SquidGraffiti
   m_TagString: Untagged
@@ -244,6 +246,35 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!65 &7184504250196413128
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7397753965291956374}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.48, y: 2.0000002, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3206638831059164672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7397753965291956374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a007615088acf264e88d7935856eceb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerHealthSobj: {fileID: 11400000, guid: f168e6ff8b0c34549913f407e196a03d, type: 2}
+  playerDamageSobj: {fileID: 11400000, guid: ae93910cf7aa2544c91afa6c1290261c, type: 2}
+  enemyDamageSobj: {fileID: 11400000, guid: ede82ed2d4283a545b9b3d3e0880c077, type: 2}
+  enemyHealthSobj: {fileID: 0}
 --- !u!1 &7397753965448475870
 GameObject:
   m_ObjectHideFlags: 0

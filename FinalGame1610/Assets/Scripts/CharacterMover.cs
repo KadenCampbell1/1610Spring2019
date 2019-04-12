@@ -11,15 +11,16 @@ public class CharacterMover : MonoBehaviour
     public MoveBase myCharacterMover;
     public CharacterController myController;
     public SpriteRenderer mySpriteRenderer;
-    public Camera myCamera;
-    public bool flipCamera;
+    public GameObject punchObj;
+    //public Camera myCamera;
+    //public bool flipCamera;
     
 
     void Start()
     {
         myController = GetComponent<CharacterController>();
         mySpriteRenderer = GetComponent<SpriteRenderer>();
-        myCamera = GetComponent<Camera>();
+        //myCamera = GetComponent<Camera>();
     }
 
     void Update()
@@ -33,16 +34,18 @@ public class CharacterMover : MonoBehaviour
 
         if (Input.GetKeyDown("x"))
         {
-            //mySpriteRenderer.flipX = true; 
+            mySpriteRenderer.flipX = true;
+            punchObj.transform.localPosition = new Vector3(-1.41f, 0.68f, 0);
             //flipCamera = true;
-            gameObject.transform.Rotate(0,180,0);
+            //gameObject.transform.Rotate(0,180,0);
         }
 
-//        if (Input.GetKey("c"))
-//        {
-//            mySpriteRenderer.flipX = false;
-//            flipCamera = false;
-//        }
+        if (Input.GetKey("c"))
+        {
+            mySpriteRenderer.flipX = false;
+            punchObj.transform.localPosition = new Vector3(1.41f, 0.68f, 0);
+            //flipCamera = false;
+        }
         
         myCharacterMover.Move(myController);
     }

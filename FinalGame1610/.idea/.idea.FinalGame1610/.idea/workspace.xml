@@ -2,279 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24e03b04-453e-4da5-91f8-22a77bee6b73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/.idea/.idea.1610FirstGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1610FirstGame/.idea/.idea.1610FirstGame/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Cube.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Cube.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Editor/NavMeshComponentsExamplesEditor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Editor/NavMeshComponentsExamplesEditor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Editor/NavMeshPrefabInstanceEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Editor/NavMeshPrefabInstanceEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/brightgreen.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/brightgreen.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/brown.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/brown.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/crosshair.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/crosshair.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/floor.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/floor.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/green.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/green.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/grey.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/grey.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/modify_crosshair.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/modify_crosshair.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/red.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/red.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/yellow.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Materials/yellow.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/NavMeshComponentsExamples.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/NavMeshComponentsExamples.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/BanyanTree.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/BanyanTree.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/BanyanTree.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/BanyanTree.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile0.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile0.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile10.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile10.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile11.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile11.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile12.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile12.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile13.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile13.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile14.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile14.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile15.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile15.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile3.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile3.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile4.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile4.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile5.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile5.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile6.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile6.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile7.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile7.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile8.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile8.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile9.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/DungeonTiles/Tile9.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/GroundTile.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/GroundTile.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/Materials/BanyanBark.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/Materials/BanyanBark.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/Materials/BanyanBranches.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/Materials/BanyanBranches.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/Plank.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Prefabs/Plank.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/1_multiple_agent_sizes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/1_multiple_agent_sizes.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/1_multiple_agent_sizes.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry 1.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry 1.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/1_multiple_agent_sizes/NavMesh-Geometry.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/2_drop_plank.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/2_drop_plank.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/3_free_orientation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/3_free_orientation.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/3_free_orientation.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/3_free_orientation/NavMesh.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/3_free_orientation/NavMesh.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/4_sliding_window_infinite.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/4_sliding_window_infinite.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/5_sliding_window_terrain.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/5_sliding_window_terrain.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/6_modify_mesh.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/6_modify_mesh.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/7_dungeon.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/7_dungeon.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/7b_dungeon_tile_prefabs.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scenes/7b_dungeon_tile_prefabs.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/AgentLinkMover.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/AgentLinkMover.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/ClickToMove.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/ClickToMove.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/DestroyOnTrigger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/DestroyOnTrigger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/DungeonManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/DungeonManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/EnableIffSleeping.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/EnableIffSleeping.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/FreeCam.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/FreeCam.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/LocalNavMeshBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/LocalNavMeshBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/MeshTool.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/MeshTool.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/NavMeshPrefabInstance.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/NavMeshPrefabInstance.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/NavMeshSourceTag.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/NavMeshSourceTag.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/Oscillator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/Oscillator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/RandomInstancing.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/RandomInstancing.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/RandomWalk.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/RandomWalk.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/SpawnPrefabOnKeyDown.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Scripts/SpawnPrefabOnKeyDown.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Terrains.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Terrains/Islands.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Terrains/Islands.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Terrains/LightmapWithFog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Examples/Terrains/LightmapWithFog.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Gizmos.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Gizmos/NavMeshLink Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Gizmos/NavMeshLink Icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Gizmos/NavMeshModifierVolume Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Gizmos/NavMeshModifierVolume Icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Gizmos/NavMeshSurface Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Gizmos/NavMeshSurface Icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshAssetManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshAssetManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshComponentsEditor.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshComponentsEditor.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshComponents.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshComponents.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshLink.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshLink.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshModifier.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshModifier.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/NavMeshComponents/Scripts/NavMeshSurface.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshComponentsTestsEditmode.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshComponentsTestsEditmode.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshModifierVolumeInPrefabTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshModifierVolumeInPrefabTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshSurfaceInPrefabTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshSurfaceInPrefabTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshSurfaceInPrefabVariantTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/NavMeshSurfaceInPrefabVariantTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/PrefabSavingUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/PrefabSavingUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/PrefabStageAutoSavingUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/Editor/PrefabStageAutoSavingUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshComponentsTestsPlaymode.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshComponentsTestsPlaymode.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceAgentTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceAgentTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceLinkTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceLinkTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceModifierTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceModifierTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceModifierVolumeTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceModifierVolumeTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Assets/Tests/NavMeshSurfaceTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/ConnectingSurfaces.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/ConnectingSurfaces.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/ConnectingSurfaces-Example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/ConnectingSurfaces-Example.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshLink-Example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshLink-Example.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshModifier-Example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshModifier-Example.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshModifierVolume-Example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshModifierVolume-Example.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshSurface-Advanced.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshSurface-Advanced.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshSurface-Example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/Images/NavMeshSurface-Example.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshLink.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshLink.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshModifier.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshModifier.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshModifierVolume.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshModifierVolume.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshSurface.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/NavMeshSurface.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Documentation/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/LICENSE.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Packages.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Packages/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/Packages/manifest.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/AudioManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/AudioManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/ClusterInputManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/DynamicsManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/EditorBuildSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/EditorSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/EditorSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/GraphicsSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/InputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/InputManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/NavMeshAreas.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/NetworkManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/NetworkManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/Physics2DSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/PresetManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/PresetManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/ProjectSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/ProjectVersion.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/QualitySettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/QualitySettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/TagManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/TagManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/TimeManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/TimeManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/UnityConnectSettings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/VFXManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/ProjectSettings/VFXManager.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/NavMeshComponents-master/NavMeshComponents-master/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1610FirstGame/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../1610FirstGame/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame1610/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame1610/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Snail.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Snail.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/Scene1.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -285,20 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="550">
+              <caret line="45" column="59" lean-forward="true" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
               <folding>
-                <marker date="1554771211349" expanded="false" signature="6:135" ph="..." />
-                <marker date="1554771211349" expanded="true" signature="228:1166" ph="{...}" />
-                <marker date="1554771211349" expanded="true" signature="436:610" ph="{...}" />
-                <marker date="1554771211349" expanded="true" signature="629:1164" ph="{...}" />
-                <marker date="1554771211349" expanded="true" signature="654:781" ph="/* if (flipCamera) ... */" />
-                <marker date="1554771211349" expanded="true" signature="817:966" ph="{...}" />
-                <marker date="1554771211349" expanded="true" signature="840:906" ph="/* mySpriteRenderer.flipX = true; ... */" />
-                <marker date="1554771211349" expanded="true" signature="968:1104" ph="/* if (Input.GetKey(&quot;c&quot;)) ... */" />
+                <marker date="1555041954213" expanded="false" signature="6:135" ph="..." />
+                <marker date="1555041954213" expanded="true" signature="228:1350" ph="{...}" />
+                <marker date="1555041954213" expanded="true" signature="394:449" ph="/* public Camera myCamera; ... */" />
+                <marker date="1555041954213" expanded="true" signature="472:648" ph="{...}" />
+                <marker date="1555041954213" expanded="true" signature="667:1348" ph="{...}" />
+                <marker date="1555041954213" expanded="true" signature="692:819" ph="/* if (flipCamera) ... */" />
+                <marker date="1555041954213" expanded="true" signature="855:1081" ph="{...}" />
+                <marker date="1555041954213" expanded="true" signature="999:1071" ph="/* flipCamera = true; ... */" />
+                <marker date="1555041954213" expanded="true" signature="1113:1288" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -307,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AiChangeDirection.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
+            <state relative-caret-position="990">
               <caret line="69" selection-start-line="69" selection-end-line="69" />
               <folding>
                 <marker date="1554944892628" expanded="false" signature="6:125" ph="..." />
@@ -328,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -340,6 +72,51 @@
                 <marker date="1554952530348" expanded="true" signature="295:561" ph="{...}" />
                 <marker date="1554952530348" expanded="true" signature="328:422" ph="{...}" />
                 <marker date="1554952530348" expanded="true" signature="451:546" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterEventCheck.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <folding>
+                <marker date="1554775588087" expanded="false" signature="6:92" ph="..." />
+                <marker date="1554775588087" expanded="true" signature="142:1296" ph="{...}" />
+                <marker date="1554775588087" expanded="true" signature="265:320" ph="{...}" />
+                <marker date="1554775588087" expanded="true" signature="410:1294" ph="{...}" />
+                <marker date="1554775588087" expanded="true" signature="507:1279" ph="{...}" />
+                <marker date="1554775588087" expanded="true" signature="701:980" ph="/* if (other.name == &quot;Snail&quot;) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyEvents.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1554775620178" expanded="false" signature="6:157" ph="..." />
+                <marker date="1554775620178" expanded="true" signature="196:396" ph="{...}" />
+                <marker date="1554775620178" expanded="true" signature="349:394" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding>
+                <marker date="1555041937681" expanded="true" signature="6:123" ph="..." />
+                <marker date="1555041937681" expanded="true" signature="167:671" ph="{...}" />
+                <marker date="1555041937681" expanded="true" signature="393:669" ph="{...}" />
+                <marker date="1555041937681" expanded="true" signature="446:527" ph="{...}" />
+                <marker date="1555041937681" expanded="true" signature="582:663" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -381,7 +158,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/ListOfThings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterEventCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MyEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyNavAi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AiChangeDirection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemDrop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -404,7 +184,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/MoveWithJump.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PickUps.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Events.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyNavAi.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TrackCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MyEvents.cs" />
@@ -415,6 +194,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ItemDrop.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AiChangeDirection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
       </list>
     </option>
   </component>
@@ -433,6 +214,8 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -451,8 +234,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,11 +299,12 @@
       <workItem from="1554910725495" duration="1965000" />
       <workItem from="1554915625128" duration="1628000" />
       <workItem from="1554948697993" duration="4421000" />
+      <workItem from="1555038867613" duration="3553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56193000" />
+    <option name="totallyTimeSpent" value="59746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -535,9 +317,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17157975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17384732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -599,52 +380,13 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/FloatSobjData.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateText.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateBar.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyEvents.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TrackCharacter.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LivesEvents.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ItemDrop.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <marker date="1554771211349" expanded="false" signature="6:135" ph="..." />
-            <marker date="1554771211349" expanded="true" signature="228:1166" ph="{...}" />
-            <marker date="1554771211349" expanded="true" signature="436:610" ph="{...}" />
-            <marker date="1554771211349" expanded="true" signature="629:1164" ph="{...}" />
-            <marker date="1554771211349" expanded="true" signature="654:781" ph="/* if (flipCamera) ... */" />
-            <marker date="1554771211349" expanded="true" signature="817:966" ph="{...}" />
-            <marker date="1554771211349" expanded="true" signature="840:906" ph="/* mySpriteRenderer.flipX = true; ... */" />
-            <marker date="1554771211349" expanded="true" signature="968:1104" ph="/* if (Input.GetKey(&quot;c&quot;)) ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/ListOfThings.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <marker date="1554866415456" expanded="false" signature="6:109" ph="..." />
-            <marker date="1554866415456" expanded="true" signature="173:311" ph="{...}" />
-            <marker date="1554866415456" expanded="true" signature="264:309" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterEventCheck.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AiChangeDirection.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
+        <state relative-caret-position="990">
           <caret line="69" selection-start-line="69" selection-end-line="69" />
           <folding>
             <marker date="1554944892628" expanded="false" signature="6:125" ph="..." />
@@ -676,6 +418,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/ListOfThings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1554866415456" expanded="false" signature="6:109" ph="..." />
+            <marker date="1554866415456" expanded="true" signature="173:311" ph="{...}" />
+            <marker date="1554866415456" expanded="true" signature="264:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -687,6 +441,63 @@
             <marker date="1554952530348" expanded="true" signature="295:561" ph="{...}" />
             <marker date="1554952530348" expanded="true" signature="328:422" ph="{...}" />
             <marker date="1554952530348" expanded="true" signature="451:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterEventCheck.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <folding>
+            <marker date="1554775588087" expanded="false" signature="6:92" ph="..." />
+            <marker date="1554775588087" expanded="true" signature="142:1296" ph="{...}" />
+            <marker date="1554775588087" expanded="true" signature="265:320" ph="{...}" />
+            <marker date="1554775588087" expanded="true" signature="410:1294" ph="{...}" />
+            <marker date="1554775588087" expanded="true" signature="507:1279" ph="{...}" />
+            <marker date="1554775588087" expanded="true" signature="701:980" ph="/* if (other.name == &quot;Snail&quot;) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MyEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1554775620178" expanded="false" signature="6:157" ph="..." />
+            <marker date="1554775620178" expanded="true" signature="196:396" ph="{...}" />
+            <marker date="1554775620178" expanded="true" signature="349:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <marker date="1555041937681" expanded="true" signature="6:123" ph="..." />
+            <marker date="1555041937681" expanded="true" signature="167:671" ph="{...}" />
+            <marker date="1555041937681" expanded="true" signature="393:669" ph="{...}" />
+            <marker date="1555041937681" expanded="true" signature="446:527" ph="{...}" />
+            <marker date="1555041937681" expanded="true" signature="582:663" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="45" column="59" lean-forward="true" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+          <folding>
+            <marker date="1555041954213" expanded="false" signature="6:135" ph="..." />
+            <marker date="1555041954213" expanded="true" signature="228:1350" ph="{...}" />
+            <marker date="1555041954213" expanded="true" signature="394:449" ph="/* public Camera myCamera; ... */" />
+            <marker date="1555041954213" expanded="true" signature="472:648" ph="{...}" />
+            <marker date="1555041954213" expanded="true" signature="667:1348" ph="{...}" />
+            <marker date="1555041954213" expanded="true" signature="692:819" ph="/* if (flipCamera) ... */" />
+            <marker date="1555041954213" expanded="true" signature="855:1081" ph="{...}" />
+            <marker date="1555041954213" expanded="true" signature="999:1071" ph="/* flipCamera = true; ... */" />
+            <marker date="1555041954213" expanded="true" signature="1113:1288" ph="{...}" />
           </folding>
         </state>
       </provider>
