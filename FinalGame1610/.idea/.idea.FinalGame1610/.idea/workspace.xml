@@ -37,15 +37,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
               <folding>
-                <marker date="1555103635654" expanded="false" signature="6:104" ph="..." />
-                <marker date="1555103635654" expanded="true" signature="145:601" ph="{...}" />
-                <marker date="1555103635654" expanded="true" signature="290:340" ph="{...}" />
-                <marker date="1555103635654" expanded="true" signature="392:439" ph="{...}" />
-                <marker date="1555103635654" expanded="true" signature="471:518" ph="{...}" />
-                <marker date="1555103635654" expanded="true" signature="548:593" ph="{...}" />
+                <marker date="1555215603082" expanded="false" signature="6:104" ph="..." />
+                <marker date="1555215603082" expanded="true" signature="145:595" ph="{...}" />
+                <marker date="1555215603082" expanded="true" signature="290:340" ph="{...}" />
+                <marker date="1555215603082" expanded="true" signature="392:439" ph="{...}" />
+                <marker date="1555215603082" expanded="true" signature="471:518" ph="{...}" />
+                <marker date="1555215603082" expanded="true" signature="548:593" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -227,6 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -248,7 +249,6 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -317,11 +317,12 @@
       <workItem from="1554948697993" duration="4421000" />
       <workItem from="1555038867613" duration="3553000" />
       <workItem from="1555103120362" duration="617000" />
+      <workItem from="1555212340811" duration="3282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60363000" />
+    <option name="totallyTimeSpent" value="63645000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,7 +336,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17611489" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17838247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -520,15 +521,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
           <folding>
-            <marker date="1555103635654" expanded="false" signature="6:104" ph="..." />
-            <marker date="1555103635654" expanded="true" signature="145:601" ph="{...}" />
-            <marker date="1555103635654" expanded="true" signature="290:340" ph="{...}" />
-            <marker date="1555103635654" expanded="true" signature="392:439" ph="{...}" />
-            <marker date="1555103635654" expanded="true" signature="471:518" ph="{...}" />
-            <marker date="1555103635654" expanded="true" signature="548:593" ph="{...}" />
+            <marker date="1555215603082" expanded="false" signature="6:104" ph="..." />
+            <marker date="1555215603082" expanded="true" signature="145:595" ph="{...}" />
+            <marker date="1555215603082" expanded="true" signature="290:340" ph="{...}" />
+            <marker date="1555215603082" expanded="true" signature="392:439" ph="{...}" />
+            <marker date="1555215603082" expanded="true" signature="471:518" ph="{...}" />
+            <marker date="1555215603082" expanded="true" signature="548:593" ph="{...}" />
           </folding>
         </state>
       </provider>

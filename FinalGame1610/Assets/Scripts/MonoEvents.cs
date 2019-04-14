@@ -26,6 +26,4 @@ public class MonoEvents : MonoBehaviour
     {
         OnMouseUpEvent.Invoke();
     }
-
-    
 }
