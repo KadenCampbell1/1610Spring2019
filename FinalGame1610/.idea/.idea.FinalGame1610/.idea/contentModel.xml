@@ -8,10 +8,12 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AIChangeDirection.cs" t="Include" />
+          <e p="AtkEvent.cs" t="Include" />
           <e p="BackgroundChanger.cs" t="Include" />
           <e p="CharacterEventCheck.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="DamageTrigger.cs" t="Include" />
+          <e p="DefEvent.cs" t="Include" />
           <e p="EnemyNavAi.cs" t="Include" />
           <e p="FlipCharacter.cs" t="Include" />
           <e p="ItemDrop.cs" t="Include" />
