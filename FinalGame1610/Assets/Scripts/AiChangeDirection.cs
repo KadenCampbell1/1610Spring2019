@@ -20,6 +20,7 @@ public class AiChangeDirection : MonoBehaviour
         moveLeft = false;
     }
 
+    //Change to triggerEnter and have if that checks if the collider layer is platform or enemy then if ChangeDirection or player/punch/block
     public void ChangeMoveLeft()
     {
         moveLeft = !moveLeft;
