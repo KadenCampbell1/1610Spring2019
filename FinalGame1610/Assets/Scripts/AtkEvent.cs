@@ -9,7 +9,7 @@ public class AtkEvent : MonoBehaviour
     
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) && !Input.GetMouseButtonDown(2))
+        if (Input.GetMouseButtonDown(0) && !Input.GetMouseButton(1))
         {
             ObjOn = true;
         }

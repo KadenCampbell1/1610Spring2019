@@ -9,7 +9,7 @@ public class DefEvent : MonoBehaviour
     
     void Update()
     {
-        if (Input.GetMouseButtonDown(1))
+        if (Input.GetMouseButtonDown(1) && !Input.GetMouseButton(0))
         {
             ObjOn = true;
         }
