@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -8405,7 +8405,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 489140971}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -280.2, y: 23.1, z: 0}
+  m_LocalPosition: {x: -425.4, y: 16.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1243663364}
@@ -13023,6 +13023,7 @@ GameObject:
   - component: {fileID: 1113356392}
   - component: {fileID: 1113356393}
   - component: {fileID: 1113356394}
+  - component: {fileID: 1113356395}
   m_Layer: 0
   m_Name: Boss1_Arm
   m_TagString: Untagged
@@ -13038,7 +13039,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1113356391}
   m_LocalRotation: {x: -0, y: -0, z: 0.032192305, w: 0.99948174}
-  m_LocalPosition: {x: 6.66, y: -3.3600006, z: 0}
+  m_LocalPosition: {x: 5.7, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2092692322}
@@ -13100,11 +13101,30 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1113356391}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 6.8, y: 10.24, z: 0.2}
   m_Center: {x: 0.000030517578, y: 0, z: 0}
+--- !u!95 &1113356395
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113356391}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 12964d7bbc7361342a04462b6e03e374, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1123670560 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7404565220384555001, guid: 06cadf5d320e8e54e8633d4b7bcebfa9,
