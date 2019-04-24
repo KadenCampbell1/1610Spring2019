@@ -22,8 +22,8 @@ TagManager:
   - Item
   - FlipEnemy
   - Destructible
-  - 
-  - 
+  - HealthStation
+  - PlayerNonLethal
   - 
   - 
   - 

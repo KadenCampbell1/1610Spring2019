@@ -17,6 +17,8 @@
           <e p="DefEvent.cs" t="Include" />
           <e p="EnemyNavAi.cs" t="Include" />
           <e p="FlipCharacter.cs" t="Include" />
+          <e p="Forces.cs" t="Include" />
+          <e p="HealingStation.cs" t="Include" />
           <e p="ItemDrop.cs" t="Include" />
           <e p="LivesEvents.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
