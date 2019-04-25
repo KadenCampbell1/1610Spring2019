@@ -10,6 +10,7 @@
           <e p="AIChangeDirection.cs" t="Include" />
           <e p="AtkEvent.cs" t="Include" />
           <e p="BackgroundChanger.cs" t="Include" />
+          <e p="BossAttackChoser.cs" t="Include" />
           <e p="CharacterEventCheck.cs" t="Include" />
           <e p="CharacterFlip.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />

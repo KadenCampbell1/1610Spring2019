@@ -9,6 +9,7 @@ public class ItemDrop : MonoBehaviour
 {
     public ListOfThings myList;
     public int itemLife;
+    public bool flipPosition;
     private int rngReturn;
     private float counter;
     private List<GameObject> rngList;
@@ -30,11 +31,23 @@ public class ItemDrop : MonoBehaviour
     {
         //CreateRngList();
         rngNumberMaker(3);
-        foreach (var myObj in rngList)
+        foreach (var myObj in myList.collectionList)
         {
             counter++;
-            Instantiate(myObj, new Vector3(counter * 2.0f, 0, 0), Quaternion.identity);
+            if (flipPosition)
+            {
+                Instantiate(myObj, new Vector3(counter * -2.0f + gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z), Quaternion.identity);
+            }
+            else
+            {
+                Instantiate(myObj, new Vector3(counter * 2.0f + gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z), Quaternion.identity);
+            }
         }
+//        foreach (var myObj in rngList)
+//        {
+//            counter++;
+//            Instantiate(myObj, new Vector3(counter * 2.0f, 0, 0), Quaternion.identity);
+//        }
     }
 
 //    private void CreateRngList()
@@ -51,7 +64,7 @@ public class ItemDrop : MonoBehaviour
         for (int i = 0; i < numTotal + 1; i++)
         {
              rngReturn = Random.Range(0, myList.collectionList.Count);
-             rngList.Add(myList.collectionList[rngReturn].gameObject);
+             //rngList.Add(myList.collectionList[rngReturn].gameObject);
         }
     }
 }
