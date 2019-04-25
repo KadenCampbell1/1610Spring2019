@@ -5,8 +5,9 @@ using UnityEngine.Events;
 
 public class MonoEvents : MonoBehaviour
 {
-    public UnityEvent OnTriggerEnterEvent, OnCollisionEvent, OnMouseDownEvent, OnMouseUpEvent, OnTriggerStayEvent, OnTriggerExitEvent;
-
+    public UnityEvent OnTriggerEnterEvent, OnCollisionEvent, OnMouseDownEvent, OnMouseUpEvent, OnTriggerStayEvent, OnTriggerExitEvent, OnStartEvent, OnUpdateEvent;
+    public UnityEvent OnEnableEvent;
+    
     public void OnTriggerEnter(Collider other)
     {
         OnTriggerEnterEvent.Invoke();
@@ -35,5 +36,25 @@ public class MonoEvents : MonoBehaviour
     private void OnTriggerStay(Collider other)
     {
         OnTriggerStayEvent.Invoke();
+    }
+
+    private void Start()
+    {
+        OnStartEvent.Invoke();
+    }
+
+    private void OnEnable()
+    {
+        OnEnableEvent.Invoke();
+    }
+
+    private void Update()
+    {
+        OnUpdateEvent.Invoke();
+    }
+
+    public void DestorySelf()
+    {
+        Destroy(gameObject);
     }
 }

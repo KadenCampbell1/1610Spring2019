@@ -10,6 +10,8 @@ public class CharacterMover : MonoBehaviour
 {
     public MoveBase myCharacterMover;
     public CharacterController myController;
+    public Animator myAnimator;
+    public float inputValue;
     //public SpriteRenderer mySpriteRenderer;
     //public GameObject punchObj;
     //public GameObject defObj;
@@ -61,5 +63,7 @@ public class CharacterMover : MonoBehaviour
         //}
         
         myCharacterMover.Move(myController);
+        inputValue = Input.GetAxis("Horizontal");
+        myAnimator.SetFloat("HorizontalValue", inputValue); 
     }
 }
