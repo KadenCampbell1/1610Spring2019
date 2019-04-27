@@ -10,11 +10,13 @@
           <e p="AIChangeDirection.cs" t="Include" />
           <e p="AtkEvent.cs" t="Include" />
           <e p="BackgroundChanger.cs" t="Include" />
+          <e p="Boss2Battle.cs" t="Include" />
           <e p="BossAttackChoser.cs" t="Include" />
           <e p="CharacterEventCheck.cs" t="Include" />
           <e p="CharacterFlip.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="DamageTrigger.cs" t="Include" />
+          <e p="Death.cs" t="Include" />
           <e p="DefEvent.cs" t="Include" />
           <e p="EnemyNavAi.cs" t="Include" />
           <e p="FlameFist.cs" t="Include" />

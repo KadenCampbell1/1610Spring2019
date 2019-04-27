@@ -319,6 +319,7 @@ GameObject:
   - component: {fileID: 7397753965088250162}
   - component: {fileID: 7397753965088250163}
   - component: {fileID: 7397753965088250164}
+  - component: {fileID: 4008015771067717528}
   m_Layer: 0
   m_Name: SquidNavMesh
   m_TagString: Untagged
@@ -395,6 +396,21 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &4008015771067717528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7397753965088250165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a576a37938565aa4db206ae24c22163d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthObj: {fileID: 0}
+  livesScript: {fileID: 0}
+  isPlayer: 0
 --- !u!1 &7397753965289193172
 GameObject:
   m_ObjectHideFlags: 0

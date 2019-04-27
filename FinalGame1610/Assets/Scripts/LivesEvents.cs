@@ -8,7 +8,6 @@ using UnityEngine.SceneManagement;
 public class LivesEvents : MonoBehaviour
 {
     public FloatSobjData myLives;
-    public Scene myScene;
 
     public UnityEvent DeathEvent;
     // Start is called before the first frame update
@@ -26,8 +25,8 @@ public class LivesEvents : MonoBehaviour
         }
     }
 
-    public void Restart()
+    public void Restart(string myScene)
     {
-        SceneManager.LoadScene(myScene.name);
+        SceneManager.LoadScene(myScene);
     }
 }
