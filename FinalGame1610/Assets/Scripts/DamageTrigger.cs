@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using ScriptableObjectScripts;
 using UnityEngine;
 
+//Integrated from School Lessons
 public class DamageTrigger : MonoBehaviour
 {
     public FloatSobjData playerHealthSobj;

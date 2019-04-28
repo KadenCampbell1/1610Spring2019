@@ -5,6 +5,7 @@ using ScriptableObjectScripts;
 using UnityEngine;
 using UnityEngine.Serialization;
 
+//Integrated from School and Unity's Web page
 public class AtkEvent : MonoBehaviour
 {
     public GameObject atkObj;
@@ -12,8 +13,6 @@ public class AtkEvent : MonoBehaviour
     public GameObject headObj;
     public FloatSobjData manaSobj;
     public GameObject flameFist;
-//    public GameObject playerBodyObj;
-//    public Forces forceScript;
     public bool objOn;
     public bool primaryAttackOn;
     
@@ -43,10 +42,6 @@ public class AtkEvent : MonoBehaviour
                 case WeaponState.Secondary:
                     flameFist.SetActive(objOn);
                     Instantiate(flameFist, new Vector3(atkObj.transform.position.x + 0.44f, atkObj.transform.position.y + 0.3f, atkObj.transform.position.z), atkObj.transform.rotation);
-//                    if (playerBodyObj.transform.rotation.y == 180)
-//                    {
-//                        forceScript.forceAmount.x = -forceScript.forceAmount.x;
-//                    }
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using ScriptableObjectScripts;
 using UnityEngine;
 
+//Integrated from School
 [CreateAssetMenu]
 public class ListOfThings : ScriptableObject
 {

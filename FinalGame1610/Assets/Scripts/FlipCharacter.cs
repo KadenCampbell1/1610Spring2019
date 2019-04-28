@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Integrated from School Lessons
 public class FlipCharacter : MonoBehaviour
 {
     public bool spriteFlipped;

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Integrated from School
 public class Boss2Battle : MonoBehaviour
 {
     public float waitTime = 1;
@@ -26,17 +27,5 @@ public class Boss2Battle : MonoBehaviour
         }
 
         yield return waitObj;
-    }
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

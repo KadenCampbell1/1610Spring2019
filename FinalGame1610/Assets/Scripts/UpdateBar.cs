@@ -4,6 +4,7 @@ using ScriptableObjectScripts;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Integrated from School lessons
 public class UpdateBar : MonoBehaviour
 {
     public Image barImage;

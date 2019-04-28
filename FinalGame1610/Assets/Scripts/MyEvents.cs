@@ -5,11 +5,10 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
+//Integrated from School Lessons
 public class MyEvents : MonoBehaviour
 {
-    //public UnityEvent myEvent;
     public FloatSobjData typeSobj;
-    //public FloatSobjData thisObjSobj;
     
     public void AddValue(float value)
     {

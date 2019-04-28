@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 //Integrated from school
-
+//Not being used
 [CreateAssetMenu]
 public class BackgroundValues : ScriptableObject
 {

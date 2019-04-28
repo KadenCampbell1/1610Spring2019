@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Integrated from School Lessons
 public class FlameFist : MonoBehaviour
 {
     public GameObject playerBodyObj;

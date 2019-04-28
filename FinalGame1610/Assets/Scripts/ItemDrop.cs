@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using UnityEngine;
 
-//Integrated from Unity's script reference page
+//Integrated from Unity's Web page and school lessons
 public class ItemDrop : MonoBehaviour
 {
     public ListOfThings myList;

@@ -14,20 +14,20 @@ public class AiChangeDirection : MonoBehaviour
     public bool doesRotate;
     public bool rotateSprite;
     
-    // Start is called before the first frame update
+    
     void Start()
     {
         moveLeft = false;
     }
 
-    //Change to triggerEnter and have if that checks if the collider layer is platform or enemy then if ChangeDirection or player/punch/block
+    
     public void ChangeMoveLeft()
     {
         moveLeft = !moveLeft;
         rotateSprite = !rotateSprite;
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if (!verticalMovement)

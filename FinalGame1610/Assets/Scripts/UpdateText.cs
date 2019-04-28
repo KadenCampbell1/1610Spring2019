@@ -4,6 +4,7 @@ using ScriptableObjectScripts;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Integrated from School lessons
 public class UpdateText : MonoBehaviour
 {
     public Text myText;

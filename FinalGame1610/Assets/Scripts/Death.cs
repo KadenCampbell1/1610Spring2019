@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using ScriptableObjectScripts;
 using UnityEngine;
 
+//Integrated from School Lessons and Unity's Web page
 public class Death : MonoBehaviour
 {
     public FloatSobjData healthObj;

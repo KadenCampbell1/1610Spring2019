@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+//Integrated from School
 namespace ScriptableObjectScripts
 {
     [CreateAssetMenu]

@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Integrated from School Lessons
+//Not being used
 public class CharacterEventCheck : MonoBehaviour
 {
     public Collider myCollider;
@@ -21,8 +23,6 @@ public class CharacterEventCheck : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        //if (other.gameObject == myCollider.gameObject)
-
         switch (CurrentCollider)
         {
             case MyCollider.Item:
@@ -30,16 +30,9 @@ public class CharacterEventCheck : MonoBehaviour
                 gameObject.SetActive(false);
                 break;
             case MyCollider.Damage:
-//                    if (other.name == "Snail")
-//                    {
-//                        other.gameObject.GetComponent<UpdateBar>().fillNumber = myEvent.typeSobj;  
-//                    }
-                //myEvent.typeSobj = other.GetComponent<MyEvents>().thisObjSobj;
                 myEvent.AddValue(typeValue);
-                //myEvent.typeSobj = null;
                 break;
             case MyCollider.Wall:
-                //myEvent.typeSobj = null;
                 break;
             default:
                 throw new ArgumentOutOfRangeException();

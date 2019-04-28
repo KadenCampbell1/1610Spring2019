@@ -5,6 +5,7 @@ using ScriptableObjectScripts;
 using UnityEngine;
 using Random = System.Random;
 
+//Integrated from School
 public class BossAttackChoser : MonoBehaviour
 {
     public Animator bossAnimator;
@@ -12,7 +13,7 @@ public class BossAttackChoser : MonoBehaviour
     public int rngBossNum;
     private int incrementor = 5;
     
-    // Start is called before the first frame update
+    
     void Start()
     {
         bossAnimator = GetComponent<Animator>();
@@ -28,7 +29,7 @@ public class BossAttackChoser : MonoBehaviour
 
     public AttackChoice bossAttack;
     
-    // Update is called once per frame
+    
     void Update()
     {
         if (rngBossNum == 0)
