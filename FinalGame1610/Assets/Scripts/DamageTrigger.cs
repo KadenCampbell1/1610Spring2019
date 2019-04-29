@@ -15,12 +15,12 @@ public class DamageTrigger : MonoBehaviour
     
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.name == "Player")
+        if (other.gameObject.layer == 12)
         {
             playerHealthSobj.Value -= enemyDamageSobj.Value;
         }
         
-        if (other.gameObject.name == "Punch")
+        if (other.gameObject.layer == 13)
         {
             enemyHealthSobj.Value -= playerDamageSobj.Value;
         }

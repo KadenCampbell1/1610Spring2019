@@ -3,40 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24e03b04-453e-4da5-91f8-22a77bee6b73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame1610/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Armor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Armor.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/AttackUp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/AttackUp.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Coin.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LifeUp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LifeUp.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Mana.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Mana.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjectInstances/EnemyValues/Boss2EnemySpawnHealth.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjectInstances/EnemyValues/Boss2EnemySpawnHealth.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjectInstances/SobjData/Health.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjectInstances/SobjData/Health.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjectInstances/SobjData/Score.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjectInstances/SobjData/Score.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AiChangeDirection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AiChangeDirection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AtkEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AtkEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Boss2Battle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Boss2Battle.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BossAttackChoser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BossAttackChoser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterEventCheck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterEventCheck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterFlip.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterFlip.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Death.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Death.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DefEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DefEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyNavAi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyNavAi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlameFist.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FlameFist.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Forces.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealingStation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HealingStation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemDrop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemDrop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LivesEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LivesEvents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MyEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MyEvents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/BackgroundValues.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/BackgroundValues.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/FloatSobjData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/FloatSobjData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/ListOfThings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjectScripts/ListOfThings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TrackCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TrackCharacter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UpdateBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UpdateBar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UpdateText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UpdateText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Scene1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/Scene1.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +14,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyNavAi.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="360">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <marker date="1556431075959" expanded="false" signature="6:100" ph="..." />
-                <marker date="1556431075959" expanded="true" signature="174:404" ph="{...}" />
-                <marker date="1556431075959" expanded="true" signature="263:321" ph="{...}" />
-                <marker date="1556431075959" expanded="true" signature="345:402" ph="{...}" />
+                <marker date="1556493064514" expanded="false" signature="6:123" ph="..." />
+                <marker date="1556493064514" expanded="true" signature="200:695" ph="{...}" />
+                <marker date="1556493064514" expanded="true" signature="426:693" ph="{...}" />
+                <marker date="1556493064514" expanded="true" signature="474:555" ph="{...}" />
+                <marker date="1556493064514" expanded="true" signature="606:687" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,7 +92,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MyEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterFlip.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DefEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyNavAi.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlameFist.cs" />
@@ -138,6 +106,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UpdateBar.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UpdateText.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TrackCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs" />
       </list>
     </option>
   </component>
@@ -152,10 +121,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -180,7 +150,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,11 +229,12 @@
       <workItem from="1556217967727" duration="5120000" />
       <workItem from="1556330294148" duration="3971000" />
       <workItem from="1556429276745" duration="2693000" />
+      <workItem from="1556491523369" duration="1815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113258000" />
+    <option name="totallyTimeSpent" value="115073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,7 +248,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14210129" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14436886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -544,20 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <marker date="1556430940371" expanded="false" signature="6:123" ph="..." />
-            <marker date="1556430940371" expanded="true" signature="200:704" ph="{...}" />
-            <marker date="1556430940371" expanded="true" signature="426:702" ph="{...}" />
-            <marker date="1556430940371" expanded="true" signature="479:560" ph="{...}" />
-            <marker date="1556430940371" expanded="true" signature="615:696" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Death.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -756,6 +712,20 @@
             <marker date="1556431075959" expanded="true" signature="174:404" ph="{...}" />
             <marker date="1556431075959" expanded="true" signature="263:321" ph="{...}" />
             <marker date="1556431075959" expanded="true" signature="345:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DamageTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1556493064514" expanded="false" signature="6:123" ph="..." />
+            <marker date="1556493064514" expanded="true" signature="200:695" ph="{...}" />
+            <marker date="1556493064514" expanded="true" signature="426:693" ph="{...}" />
+            <marker date="1556493064514" expanded="true" signature="474:555" ph="{...}" />
+            <marker date="1556493064514" expanded="true" signature="606:687" ph="{...}" />
           </folding>
         </state>
       </provider>
